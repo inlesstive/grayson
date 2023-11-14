@@ -1,0 +1,1129 @@
+#EXTM3U max-conn="2" url-tvg="https://rutv.aws-static-hosting.com/epg.xml.gz" catchup-type="shift"
+#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj" tvg-logo="https://rutv.aws-static-hosting.com/streams/pervyj.png" tvg-rec="7" catchup-days="7" ,Первый канал
+http://de.russkoe-iptv.com:88/s/654e5896/pervyj.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/pervyj-hd.png" tvg-rec="7" catchup-days="7" ,Первый HD
+http://de.russkoe-iptv.com:88/s/654e5896/pervyj-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija1" tvg-logo="https://rutv.aws-static-hosting.com/streams/rossija1.png" tvg-rec="7" catchup-days="7" ,Россия 1
+http://de.russkoe-iptv.com:88/s/654e5896/rossija1.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/rossija-hd.png" tvg-rec="7" catchup-days="7" ,Россия 1 HD
+http://de.russkoe-iptv.com:88/s/654e5896/rossija-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv.png" tvg-rec="7" catchup-days="7" ,НТВ
+http://de.russkoe-iptv.com:88/s/654e5896/ntv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-hd.png" tvg-rec="7" catchup-days="7" ,НТВ HD
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv-mir" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-mir.png" tvg-rec="7" catchup-days="7" ,НТВ Мир
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-mir.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="TNT" tvg-logo="https://rutv.aws-static-hosting.com/streams/TNT.png" tvg-rec="7" catchup-days="7" ,ТНТ
+http://de.russkoe-iptv.com:88/s/654e5896/TNT.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tnt-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tnt-hd.png" tvg-rec="7" catchup-days="7" ,ТНТ HD
+http://de.russkoe-iptv.com:88/s/654e5896/tnt-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tnt-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/tnt-4.png" tvg-rec="7" catchup-days="7" ,ТНТ4
+http://de.russkoe-iptv.com:88/s/654e5896/tnt-4.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tnt4-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tnt4-hd.png" tvg-rec="7" catchup-days="7" ,ТНТ4 HD
+http://de.russkoe-iptv.com:88/s/654e5896/tnt4-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="CTC" tvg-logo="https://rutv.aws-static-hosting.com/streams/CTC.png" tvg-rec="7" catchup-days="7" ,СТС
+http://de.russkoe-iptv.com:88/s/654e5896/CTC.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ctc-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ctc-hd.png" tvg-rec="7" catchup-days="7" ,СТС HD
+http://de.russkoe-iptv.com:88/s/654e5896/ctc-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="sts-love" tvg-logo="https://rutv.aws-static-hosting.com/streams/sts-love.png" tvg-rec="7" catchup-days="7" ,СТС Love
+http://de.russkoe-iptv.com:88/s/654e5896/sts-love.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="domashnij" tvg-logo="https://rutv.aws-static-hosting.com/streams/domashnij.png" tvg-rec="7" catchup-days="7" ,Домашний
+http://de.russkoe-iptv.com:88/s/654e5896/domashnij.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="domashnij-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/domashnij-hd.png" tvg-rec="7" catchup-days="7" ,Домашний HD
+http://de.russkoe-iptv.com:88/s/654e5896/domashnij-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="perec" tvg-logo="https://rutv.aws-static-hosting.com/streams/perec.png" tvg-rec="7" catchup-days="7" ,Перец
+http://de.russkoe-iptv.com:88/s/654e5896/perec.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ren-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/ren-tv.png" tvg-rec="7" catchup-days="7" ,РЕН ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/ren-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ren-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ren-tv-hd.png" tvg-rec="7" catchup-days="7" ,РЕН ТВ HD
+http://de.russkoe-iptv.com:88/s/654e5896/ren-tv-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tv-3" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv-3.png" tvg-rec="7" catchup-days="7" ,ТВ3
+http://de.russkoe-iptv.com:88/s/654e5896/tv-3.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tv3-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv3-hd.png" tvg-rec="7" catchup-days="7" ,ТВ3 HD
+http://de.russkoe-iptv.com:88/s/654e5896/tv3-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="4e" tvg-logo="https://rutv.aws-static-hosting.com/streams/4e.png" tvg-rec="7" catchup-days="7" ,Че
+http://de.russkoe-iptv.com:88/s/654e5896/4e.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda" tvg-logo="https://rutv.aws-static-hosting.com/streams/zvezda.png" tvg-rec="7" catchup-days="7" ,Звезда
+http://de.russkoe-iptv.com:88/s/654e5896/zvezda.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/zvezda-hd.png" tvg-rec="7" catchup-days="7" ,Звезда HD
+http://de.russkoe-iptv.com:88/s/654e5896/zvezda-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-plus" tvg-logo="https://rutv.aws-static-hosting.com/streams/zvezda-plus.png" tvg-rec="7" catchup-days="7" ,Звезда Плюс
+http://de.russkoe-iptv.com:88/s/654e5896/zvezda-plus.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-plus-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/zvezda-plus-hd.png" tvg-rec="7" catchup-days="7" ,Звезда Плюс HD
+http://de.russkoe-iptv.com:88/s/654e5896/zvezda-plus-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tvc" tvg-logo="https://rutv.aws-static-hosting.com/streams/tvc.png" tvg-rec="7" catchup-days="7" ,ТВЦ
+http://de.russkoe-iptv.com:88/s/654e5896/tvc.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tvc-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tvc-hd.png" tvg-rec="7" catchup-days="7" ,ТВЦ HD
+http://de.russkoe-iptv.com:88/s/654e5896/tvc-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="centralnoe-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/centralnoe-tv.png" tvg-rec="7" catchup-days="7" ,Центральное телевидение
+http://de.russkoe-iptv.com:88/s/654e5896/centralnoe-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="5kanal" tvg-logo="https://rutv.aws-static-hosting.com/streams/5kanal.png" tvg-rec="7" catchup-days="7" ,5 канал
+http://de.russkoe-iptv.com:88/s/654e5896/5kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-k" tvg-logo="https://rutv.aws-static-hosting.com/streams/rossija-k.png" tvg-rec="7" catchup-days="7" ,Россия Культура
+http://de.russkoe-iptv.com:88/s/654e5896/rossija-k.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-k-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/rossija-k-hd.png" tvg-rec="7" catchup-days="7" ,Россия Культура HD
+http://de.russkoe-iptv.com:88/s/654e5896/rossija-k-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="moskva-doverie" tvg-logo="https://rutv.aws-static-hosting.com/streams/moskva-doverie.png" tvg-rec="7" catchup-days="7" ,Москва Доверие
+http://de.russkoe-iptv.com:88/s/654e5896/moskva-doverie.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="souz" tvg-logo="https://rutv.aws-static-hosting.com/streams/souz.png" tvg-rec="7" catchup-days="7" ,Союз
+http://de.russkoe-iptv.com:88/s/654e5896/souz.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="spas" tvg-logo="https://rutv.aws-static-hosting.com/streams/spas.png" tvg-rec="7" catchup-days="7" ,Спас
+http://de.russkoe-iptv.com:88/s/654e5896/spas.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="krasnaja-linija" tvg-logo="https://rutv.aws-static-hosting.com/streams/krasnaja-linija.png" tvg-rec="7" catchup-days="7" ,Красная линия
+http://de.russkoe-iptv.com:88/s/654e5896/krasnaja-linija.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="8-kanal" tvg-logo="https://rutv.aws-static-hosting.com/streams/8-kanal.png" tvg-rec="7" catchup-days="7" ,8 канал
+http://de.russkoe-iptv.com:88/s/654e5896/8-kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="9-kanal" tvg-logo="https://rutv.aws-static-hosting.com/streams/9-kanal.png" tvg-rec="7" catchup-days="7" ,9 Канал
+http://de.russkoe-iptv.com:88/s/654e5896/9-kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="otp" tvg-logo="https://rutv.aws-static-hosting.com/streams/otp.png" tvg-rec="7" catchup-days="7" ,ОТР
+http://de.russkoe-iptv.com:88/s/654e5896/otp.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="otr-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/otr-hd.png" tvg-rec="7" catchup-days="7" ,ОТР HD
+http://de.russkoe-iptv.com:88/s/654e5896/otr-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir" tvg-logo="https://rutv.aws-static-hosting.com/streams/mir.png" tvg-rec="7" catchup-days="7" ,Мир
+http://de.russkoe-iptv.com:88/s/654e5896/mir.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/mir-hd.png" tvg-rec="7" catchup-days="7" ,Мир HD
+http://de.russkoe-iptv.com:88/s/654e5896/mir-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir-24" tvg-logo="https://rutv.aws-static-hosting.com/streams/mir-24.png" tvg-rec="7" catchup-days="7" ,Мир 24
+http://de.russkoe-iptv.com:88/s/654e5896/mir-24.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir-24-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/mir-24-hd.png" tvg-rec="7" catchup-days="7" ,Мир 24 HD
+http://de.russkoe-iptv.com:88/s/654e5896/mir-24-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="sarafan" tvg-logo="https://rutv.aws-static-hosting.com/streams/sarafan.png" tvg-rec="7" catchup-days="7" ,Сарафан
+http://de.russkoe-iptv.com:88/s/654e5896/sarafan.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="gagsnetwork" tvg-logo="https://rutv.aws-static-hosting.com/streams/gagsnetwork.png" tvg-rec="7" catchup-days="7" ,Gagsnetwork
+http://de.russkoe-iptv.com:88/s/654e5896/gagsnetwork.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="gagsnetwork-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/gagsnetwork-hd.png" tvg-rec="7" catchup-days="7" ,Gagsnetwork HD
+http://de.russkoe-iptv.com:88/s/654e5896/gagsnetwork-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="kvn-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/kvn-tv.png" tvg-rec="7" catchup-days="7" ,КВН ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/kvn-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="piatnica" tvg-logo="https://rutv.aws-static-hosting.com/streams/piatnica.png" tvg-rec="7" catchup-days="7" ,Пятница
+http://de.russkoe-iptv.com:88/s/654e5896/piatnica.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="piatnica-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/piatnica-hd.png" tvg-rec="7" catchup-days="7" ,Пятница HD
+http://de.russkoe-iptv.com:88/s/654e5896/piatnica-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="super" tvg-logo="https://rutv.aws-static-hosting.com/streams/super.png" tvg-rec="7" catchup-days="7" ,Суббота
+http://de.russkoe-iptv.com:88/s/654e5896/super.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="super-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/super-hd.png" tvg-rec="7" catchup-days="7" ,Суббота HD
+http://de.russkoe-iptv.com:88/s/654e5896/super-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="podmoskovje" tvg-logo="https://rutv.aws-static-hosting.com/streams/podmoskovje.png" tvg-rec="7" catchup-days="7" ,Телеканал 360
+http://de.russkoe-iptv.com:88/s/654e5896/podmoskovje.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="telekanal-360-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/telekanal-360-hd.png" tvg-rec="7" catchup-days="7" ,Телеканал 360 HD
+http://de.russkoe-iptv.com:88/s/654e5896/telekanal-360-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="yu-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/yu-tv.png" tvg-rec="7" catchup-days="7" ,Ю ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/yu-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="vremya" tvg-logo="https://rutv.aws-static-hosting.com/streams/vremya.png" tvg-rec="7" catchup-days="7" ,Время
+http://de.russkoe-iptv.com:88/s/654e5896/vremya.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rt-doc" tvg-logo="https://rutv.aws-static-hosting.com/streams/rt-doc.png" tvg-rec="7" catchup-days="7" ,RT Док
+http://de.russkoe-iptv.com:88/s/654e5896/rt-doc.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="russia-today-doc-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/russia-today-doc-hd.png" tvg-rec="7" catchup-days="7" ,RT Док HD
+http://de.russkoe-iptv.com:88/s/654e5896/russia-today-doc-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rtvi" tvg-logo="https://rutv.aws-static-hosting.com/streams/rtvi.png" tvg-rec="7" catchup-days="7" ,RTVi
+http://de.russkoe-iptv.com:88/s/654e5896/rtvi.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="dozhd" tvg-logo="https://rutv.aws-static-hosting.com/streams/dozhd.png" tvg-rec="7" catchup-days="7" ,Дождь
+http://de.russkoe-iptv.com:88/s/654e5896/dozhd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="dozhd-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/dozhd-hd.png" tvg-rec="7" catchup-days="7" ,Дождь HD
+http://de.russkoe-iptv.com:88/s/654e5896/dozhd-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="nastoyaschee-vremya-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nastoyaschee-vremya-hd.png" tvg-rec="7" catchup-days="7" ,Настоящее время HD
+http://de.russkoe-iptv.com:88/s/654e5896/nastoyaschee-vremya-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rossija24" tvg-logo="https://rutv.aws-static-hosting.com/streams/rossija24.png" tvg-rec="7" catchup-days="7" ,Россия 24
+http://de.russkoe-iptv.com:88/s/654e5896/rossija24.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="evronews" tvg-logo="https://rutv.aws-static-hosting.com/streams/evronews.png" tvg-rec="0" catchup-days="0" ,EuroNews
+http://de.russkoe-iptv.com:88/s/654e5896/evronews.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="izvestija" tvg-logo="https://rutv.aws-static-hosting.com/streams/izvestija.png" tvg-rec="0" catchup-days="0" ,Известия
+http://de.russkoe-iptv.com:88/s/654e5896/izvestija.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="izvestija-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/izvestija-hd.png" tvg-rec="0" catchup-days="0" ,Известия HD
+http://de.russkoe-iptv.com:88/s/654e5896/izvestija-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="360-novosti-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/360-novosti-hd.png" tvg-rec="7" catchup-days="7" ,360 Новости HD
+http://de.russkoe-iptv.com:88/s/654e5896/360-novosti-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="moskva-24" tvg-logo="https://rutv.aws-static-hosting.com/streams/moskva-24.png" tvg-rec="0" catchup-days="0" ,Москва 24
+http://de.russkoe-iptv.com:88/s/654e5896/moskva-24.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rbk" tvg-logo="https://rutv.aws-static-hosting.com/streams/rbk.png" tvg-rec="7" catchup-days="7" ,РБК
+http://de.russkoe-iptv.com:88/s/654e5896/rbk.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rbk-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/rbk-hd.png" tvg-rec="7" catchup-days="7" ,РБК HD
+http://de.russkoe-iptv.com:88/s/654e5896/rbk-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rt-english" tvg-logo="https://rutv.aws-static-hosting.com/streams/rt-english.png" tvg-rec="0" catchup-days="0" ,RT
+http://de.russkoe-iptv.com:88/s/654e5896/rt-english.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="russia-today-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/russia-today-hd.png" tvg-rec="0" catchup-days="0" ,RT HD
+http://de.russkoe-iptv.com:88/s/654e5896/russia-today-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="sky-news-uk" tvg-logo="https://rutv.aws-static-hosting.com/streams/sky-news-uk.png" tvg-rec="0" catchup-days="0" ,Sky News
+http://de.russkoe-iptv.com:88/s/654e5896/sky-news-uk.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="sky-news-uk-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/sky-news-uk-hd.png" tvg-rec="0" catchup-days="0" ,Sky News HD
+http://de.russkoe-iptv.com:88/s/654e5896/sky-news-uk-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="fox-news-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/fox-news-hd.png" tvg-rec="0" catchup-days="0" ,FOX News HD
+http://de.russkoe-iptv.com:88/s/654e5896/fox-news-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="bbc-world-news" tvg-logo="https://rutv.aws-static-hosting.com/streams/bbc-world-news.png" tvg-rec="0" catchup-days="0" ,BBC World
+http://de.russkoe-iptv.com:88/s/654e5896/bbc-world-news.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="bbc-world-news-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/bbc-world-news-hd.png" tvg-rec="0" catchup-days="0" ,BBC World HD
+http://de.russkoe-iptv.com:88/s/654e5896/bbc-world-news-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="cnn" tvg-logo="https://rutv.aws-static-hosting.com/streams/cnn.png" tvg-rec="0" catchup-days="0" ,CNN
+http://de.russkoe-iptv.com:88/s/654e5896/cnn.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="cnn-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/cnn-hd.png" tvg-rec="0" catchup-days="0" ,CNN HD
+http://de.russkoe-iptv.com:88/s/654e5896/cnn-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="bloomberg-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/bloomberg-hd.png" tvg-rec="0" catchup-days="0" ,Bloomberg TV HD
+http://de.russkoe-iptv.com:88/s/654e5896/bloomberg-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="al-jazeera-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/al-jazeera-hd.png" tvg-rec="0" catchup-days="0" ,Al Jazeera HD
+http://de.russkoe-iptv.com:88/s/654e5896/al-jazeera-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopremiera-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinopremiera-hd.png" tvg-rec="7" catchup-days="7" ,Кинопремьера HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinopremiera-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-premium-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kino-premium-hd.png" tvg-rec="7" catchup-days="7" ,Премиальное HD
+http://de.russkoe-iptv.com:88/s/654e5896/kino-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ostrosujetnoe-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ostrosujetnoe-hd.png" tvg-rec="7" catchup-days="7" ,Остросюжетное HD
+http://de.russkoe-iptv.com:88/s/654e5896/ostrosujetnoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="hit-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/hit-hd.png" tvg-rec="7" catchup-days="7" ,Хит HD
+http://de.russkoe-iptv.com:88/s/654e5896/hit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinohit" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinohit.png" tvg-rec="7" catchup-days="7" ,Кинохит
+http://de.russkoe-iptv.com:88/s/654e5896/kinohit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinohit-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinohit-hd.png" tvg-rec="7" catchup-days="7" ,Кинохит HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinohit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinomix" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinomix.png" tvg-rec="7" catchup-days="7" ,Киномикс
+http://de.russkoe-iptv.com:88/s/654e5896/kinomix.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinomix-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinomix-hd.png" tvg-rec="7" catchup-days="7" ,Киномикс HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinomix-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosemja" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinosemja.png" tvg-rec="7" catchup-days="7" ,Киносемья
+http://de.russkoe-iptv.com:88/s/654e5896/kinosemja.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosemja-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinosemja-hd.png" tvg-rec="7" catchup-days="7" ,Киносемья HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinosemja-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinosvidanije.png" tvg-rec="7" catchup-days="7" ,Киносвидание
+http://de.russkoe-iptv.com:88/s/654e5896/kinosvidanije.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinosvidanije-hd.png" tvg-rec="7" catchup-days="7" ,Киносвидание HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinosvidanije-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/mnogo-tv.png" tvg-rec="7" catchup-days="7" ,Киносерия
+http://de.russkoe-iptv.com:88/s/654e5896/mnogo-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/mnogo-tv-hd.png" tvg-rec="7" catchup-days="7" ,Киносерия HD
+http://de.russkoe-iptv.com:88/s/654e5896/mnogo-tv-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinopokaz.png" tvg-rec="7" catchup-days="7" ,Кинопоказ
+http://de.russkoe-iptv.com:88/s/654e5896/kinopokaz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinopokaz-hd.png" tvg-rec="7" catchup-days="7" ,Кинопоказ HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinopokaz-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="blokbaster-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/blokbaster-hd.png" tvg-rec="7" catchup-days="7" ,Блокбастер HD
+http://de.russkoe-iptv.com:88/s/654e5896/blokbaster-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-kinopokaz-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nash-kinopokaz-hd.png" tvg-rec="7" catchup-days="7" ,Наш Кинопоказ HD
+http://de.russkoe-iptv.com:88/s/654e5896/nash-kinopokaz-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-kinoroman-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nash-kinoroman-hd.png" tvg-rec="7" catchup-days="7" ,Душевное HD
+http://de.russkoe-iptv.com:88/s/654e5896/nash-kinoroman-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-detektiv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nash-detektiv-hd.png" tvg-rec="7" catchup-days="7" ,Наше HD
+http://de.russkoe-iptv.com:88/s/654e5896/nash-detektiv-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-lubimoe-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nashe-lubimoe-hd.png" tvg-rec="7" catchup-days="7" ,Любимое HD
+http://de.russkoe-iptv.com:88/s/654e5896/nashe-lubimoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-premium-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000-premium-hd.png" tvg-rec="7" catchup-days="7" ,Viju+ premiere
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-megahit-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000-megahit-hd.png" tvg-rec="7" catchup-days="7" ,Viju+ megahit
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000-megahit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-comedy-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000-comedy-hd.png" tvg-rec="7" catchup-days="7" ,Viju+ comedy
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000-comedy-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-serial-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/vip-serial-hd.png" tvg-rec="7" catchup-days="7" ,Viju+ serial HD
+http://de.russkoe-iptv.com:88/s/654e5896/vip-serial-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000.png" tvg-rec="7" catchup-days="7" ,Viju TV1000
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000-hd.png" tvg-rec="7" catchup-days="7" ,Viju TV1000 HD
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-action" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000-action.png" tvg-rec="7" catchup-days="7" ,Viju TV1000 action
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000-action.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-action-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000-action-hd.png" tvg-rec="7" catchup-days="7" ,Viju TV1000 action HD
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000-action-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-ru-kino" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000-ru-kino.png" tvg-rec="7" catchup-days="7" ,Viju TV1000 русское
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000-ru-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-russkoje-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000-russkoje-hd.png" tvg-rec="7" catchup-days="7" ,Viju TV1000 русское HD
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000-russkoje-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-world-kino" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000-world-kino.png" tvg-rec="7" catchup-days="7" ,Viasat Kino World
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000-world-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-world-kino-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv1000-world-kino-hd.png" tvg-rec="7" catchup-days="7" ,Viasat Kino World HD
+http://de.russkoe-iptv.com:88/s/654e5896/tv1000-world-kino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mgm-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/mgm-hd.png" tvg-rec="7" catchup-days="7" ,Hollywood HD
+http://de.russkoe-iptv.com:88/s/654e5896/mgm-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="cinema" tvg-logo="https://rutv.aws-static-hosting.com/streams/cinema.png" tvg-rec="7" catchup-days="7" ,Cinema
+http://de.russkoe-iptv.com:88/s/654e5896/cinema.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="cinema-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/cinema-hd.png" tvg-rec="7" catchup-days="7" ,Cinema HD
+http://de.russkoe-iptv.com:88/s/654e5896/cinema-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/kino-tv.png" tvg-rec="7" catchup-days="7" ,Кино ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/kino-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kino-tv-hd.png" tvg-rec="7" catchup-days="7" ,Кино ТВ HD
+http://de.russkoe-iptv.com:88/s/654e5896/kino-tv-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinojam1-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinojam1-hd.png" tvg-rec="7" catchup-days="7" ,Kinojam 1 HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinojam1-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinojam2-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinojam2-hd.png" tvg-rec="7" catchup-days="7" ,Kinojam 2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinojam2-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="family-jam-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/family-jam-hd.png" tvg-rec="7" catchup-days="7" ,Family Jam HD
+http://de.russkoe-iptv.com:88/s/654e5896/family-jam-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="detective-jam-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/detective-jam-hd.png" tvg-rec="7" catchup-days="7" ,Detective Jam HD
+http://de.russkoe-iptv.com:88/s/654e5896/detective-jam-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinoliving-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinoliving-hd.png" tvg-rec="7" catchup-days="7" ,KinoLiving HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinoliving-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kion-hit-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kion-hit-hd.png" tvg-rec="7" catchup-days="7" ,KION Хит HD
+http://de.russkoe-iptv.com:88/s/654e5896/kion-hit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="start-world" tvg-logo="https://rutv.aws-static-hosting.com/streams/start-world.png" tvg-rec="7" catchup-days="7" ,Start World
+http://de.russkoe-iptv.com:88/s/654e5896/start-world.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="start-world-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/start-world-hd.png" tvg-rec="7" catchup-days="7" ,Start World HD
+http://de.russkoe-iptv.com:88/s/654e5896/start-world-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="start-air" tvg-logo="https://rutv.aws-static-hosting.com/streams/start-air.png" tvg-rec="7" catchup-days="7" ,Start Air
+http://de.russkoe-iptv.com:88/s/654e5896/start-air.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="start-air-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/start-air-hd.png" tvg-rec="7" catchup-days="7" ,Start Air HD
+http://de.russkoe-iptv.com:88/s/654e5896/start-air-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="plan-b" tvg-logo="https://rutv.aws-static-hosting.com/streams/plan-b.png" tvg-rec="7" catchup-days="7" ,Plan B
+http://de.russkoe-iptv.com:88/s/654e5896/plan-b.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="plan-b-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/plan-b-hd.png" tvg-rec="7" catchup-days="7" ,Plan B HD
+http://de.russkoe-iptv.com:88/s/654e5896/plan-b-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4ever-cinema-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/4ever-cinema-ua-hd.png" tvg-rec="7" catchup-days="7" ,4ever Cinema HD
+http://de.russkoe-iptv.com:88/s/654e5896/4ever-cinema-ua-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kineko-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kineko-hd.png" tvg-rec="7" catchup-days="7" ,Кинеко HD
+http://de.russkoe-iptv.com:88/s/654e5896/kineko-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="evrokino" tvg-logo="https://rutv.aws-static-hosting.com/streams/evrokino.png" tvg-rec="7" catchup-days="7" ,Еврокино
+http://de.russkoe-iptv.com:88/s/654e5896/evrokino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="evrokino-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/evrokino-hd.png" tvg-rec="7" catchup-days="7" ,Еврокино HD
+http://de.russkoe-iptv.com:88/s/654e5896/evrokino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="flix-snip" tvg-logo="https://rutv.aws-static-hosting.com/streams/flix-snip.png" tvg-rec="7" catchup-days="7" ,Flix Snip
+http://de.russkoe-iptv.com:88/s/654e5896/flix-snip.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="flix-snip-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/flix-snip-hd.png" tvg-rec="7" catchup-days="7" ,Flix Snip HD
+http://de.russkoe-iptv.com:88/s/654e5896/flix-snip-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="egoist-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/egoist-tv.png" tvg-rec="7" catchup-days="7" ,SHOT TV
+http://de.russkoe-iptv.com:88/s/654e5896/egoist-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="egoist-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/egoist-tv-hd.png" tvg-rec="7" catchup-days="7" ,SHOT TV HD
+http://de.russkoe-iptv.com:88/s/654e5896/egoist-tv-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="vhska-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/vhska-hd.png" tvg-rec="7" catchup-days="7" ,VHS-ка HD
+http://de.russkoe-iptv.com:88/s/654e5896/vhska-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="https://rutv.aws-static-hosting.com/streams/muzhskoe-kino.png" tvg-rec="7" catchup-days="7" ,Мужское кино
+http://de.russkoe-iptv.com:88/s/654e5896/muzhskoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/muzhskoe-kino-hd.png" tvg-rec="7" catchup-days="7" ,Мужское кино HD
+http://de.russkoe-iptv.com:88/s/654e5896/muzhskoe-kino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-muzshkoe-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nashe-muzshkoe-hd.png" tvg-rec="7" catchup-days="7" ,Наше Мужское HD
+http://de.russkoe-iptv.com:88/s/654e5896/nashe-muzshkoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="trash-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/trash-hd.png" tvg-rec="7" catchup-days="7" ,Trash HD
+http://de.russkoe-iptv.com:88/s/654e5896/trash-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="strashnoe-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/strashnoe-hd.png" tvg-rec="7" catchup-days="7" ,Страшное HD
+http://de.russkoe-iptv.com:88/s/654e5896/strashnoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd1" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinopokaz-hd1.png" tvg-rec="7" catchup-days="7" ,Шокирующее HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinopokaz-hd1.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinouzhas-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinouzhas-hd.png" tvg-rec="7" catchup-days="7" ,Киноужас HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinouzhas-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="Scream" tvg-logo="https://rutv.aws-static-hosting.com/streams/Scream.png" tvg-rec="7" catchup-days="7" ,Scream
+http://de.russkoe-iptv.com:88/s/654e5896/Scream.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="scream-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/scream-hd.png" tvg-rec="7" catchup-days="7" ,Scream HD
+http://de.russkoe-iptv.com:88/s/654e5896/scream-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="hct" tvg-logo="https://rutv.aws-static-hosting.com/streams/hct.png" tvg-rec="7" catchup-days="7" ,НСТ
+http://de.russkoe-iptv.com:88/s/654e5896/hct.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkaja-comedija" tvg-logo="https://rutv.aws-static-hosting.com/streams/russkaja-comedija.png" tvg-rec="7" catchup-days="7" ,Комедия
+http://de.russkoe-iptv.com:88/s/654e5896/russkaja-comedija.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinokomedia" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinokomedia.png" tvg-rec="7" catchup-days="7" ,Кинокомедия
+http://de.russkoe-iptv.com:88/s/654e5896/kinokomedia.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinokomedia-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinokomedia-hd.png" tvg-rec="7" catchup-days="7" ,Кинокомедия HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinokomedia-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd2" tvg-logo="https://rutv.aws-static-hosting.com/streams/kinopokaz-hd2.png" tvg-rec="7" catchup-days="7" ,Комедийное HD
+http://de.russkoe-iptv.com:88/s/654e5896/kinopokaz-hd2.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="comedy-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/comedy-hd.png" tvg-rec="7" catchup-days="7" ,Камеди HD
+http://de.russkoe-iptv.com:88/s/654e5896/comedy-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-premium" tvg-logo="https://rutv.aws-static-hosting.com/streams/amedia-premium.png" tvg-rec="7" catchup-days="7" ,Amedia Premium
+http://de.russkoe-iptv.com:88/s/654e5896/amedia-premium.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-premium-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/amedia-premium-hd.png" tvg-rec="7" catchup-days="7" ,AMEDIA Premium HD
+http://de.russkoe-iptv.com:88/s/654e5896/amedia-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-hit" tvg-logo="https://rutv.aws-static-hosting.com/streams/amedia-hit.png" tvg-rec="7" catchup-days="7" ,Amedia Hit
+http://de.russkoe-iptv.com:88/s/654e5896/amedia-hit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-hit-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/amedia-hit-hd.png" tvg-rec="7" catchup-days="7" ,AMEDIA HIT HD
+http://de.russkoe-iptv.com:88/s/654e5896/amedia-hit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-1" tvg-logo="https://rutv.aws-static-hosting.com/streams/amedia-1.png" tvg-rec="7" catchup-days="7" ,A1
+http://de.russkoe-iptv.com:88/s/654e5896/amedia-1.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia1-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/amedia1-hd.png" tvg-rec="7" catchup-days="7" ,A1 HD
+http://de.russkoe-iptv.com:88/s/654e5896/amedia1-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/amedia-2.png" tvg-rec="7" catchup-days="7" ,A2
+http://de.russkoe-iptv.com:88/s/654e5896/amedia-2.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-2-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/amedia-2-hd.png" tvg-rec="7" catchup-days="7" ,A2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/amedia-2-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox" tvg-logo="https://rutv.aws-static-hosting.com/streams/fox.png" tvg-rec="7" catchup-days="7" ,FOX
+http://de.russkoe-iptv.com:88/s/654e5896/fox.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/fox-hd.png" tvg-rec="7" catchup-days="7" ,FOX HD
+http://de.russkoe-iptv.com:88/s/654e5896/fox-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox-life" tvg-logo="https://rutv.aws-static-hosting.com/streams/fox-life.png" tvg-rec="7" catchup-days="7" ,Fox Life
+http://de.russkoe-iptv.com:88/s/654e5896/fox-life.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox-life-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/fox-life-hd.png" tvg-rec="7" catchup-days="7" ,FOX Life HD
+http://de.russkoe-iptv.com:88/s/654e5896/fox-life-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="set" tvg-logo="https://rutv.aws-static-hosting.com/streams/set.png" tvg-rec="7" catchup-days="7" ,Red
+http://de.russkoe-iptv.com:88/s/654e5896/set.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="set-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/set-hd.png" tvg-rec="7" catchup-days="7" ,Red HD
+http://de.russkoe-iptv.com:88/s/654e5896/set-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="sony-sci-fi" tvg-logo="https://rutv.aws-static-hosting.com/streams/sony-sci-fi.png" tvg-rec="7" catchup-days="7" ,Sci-Fi
+http://de.russkoe-iptv.com:88/s/654e5896/sony-sci-fi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="sci-fi-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/sci-fi-hd.png" tvg-rec="7" catchup-days="7" ,Sci-Fi HD
+http://de.russkoe-iptv.com:88/s/654e5896/sci-fi-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="sony-turbo" tvg-logo="https://rutv.aws-static-hosting.com/streams/sony-turbo.png" tvg-rec="7" catchup-days="7" ,Black
+http://de.russkoe-iptv.com:88/s/654e5896/sony-turbo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="black-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/black-hd.png" tvg-rec="7" catchup-days="7" ,Black HD
+http://de.russkoe-iptv.com:88/s/654e5896/black-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv-xxi" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv-xxi.png" tvg-rec="7" catchup-days="7" ,ТВ21
+http://de.russkoe-iptv.com:88/s/654e5896/tv-xxi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mosfilm" tvg-logo="https://rutv.aws-static-hosting.com/streams/mosfilm.png" tvg-rec="7" catchup-days="7" ,Мосфильм
+http://de.russkoe-iptv.com:88/s/654e5896/mosfilm.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mosfilm-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/mosfilm-hd.png" tvg-rec="7" catchup-days="7" ,Мосфильм HD
+http://de.russkoe-iptv.com:88/s/654e5896/mosfilm-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="lubimoe-kino" tvg-logo="https://rutv.aws-static-hosting.com/streams/lubimoe-kino.png" tvg-rec="7" catchup-days="7" ,Любимое Кино
+http://de.russkoe-iptv.com:88/s/654e5896/lubimoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="lubimoe-kino-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/lubimoe-kino-hd.png" tvg-rec="7" catchup-days="7" ,Любимое Кино HD
+http://de.russkoe-iptv.com:88/s/654e5896/lubimoe-kino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="rodnoje_kino" tvg-logo="https://rutv.aws-static-hosting.com/streams/rodnoje_kino.png" tvg-rec="7" catchup-days="7" ,Родное кино
+http://de.russkoe-iptv.com:88/s/654e5896/rodnoje_kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="pobeda" tvg-logo="https://rutv.aws-static-hosting.com/streams/pobeda.png" tvg-rec="7" catchup-days="7" ,Победа
+http://de.russkoe-iptv.com:88/s/654e5896/pobeda.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="den-pobedy-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/den-pobedy-hd.png" tvg-rec="7" catchup-days="7" ,День Победы HD
+http://de.russkoe-iptv.com:88/s/654e5896/den-pobedy-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-novoe-kino" tvg-logo="https://rutv.aws-static-hosting.com/streams/nashe-novoe-kino.png" tvg-rec="7" catchup-days="7" ,Наше новое кино
+http://de.russkoe-iptv.com:88/s/654e5896/nashe-novoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-novoe-kino-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nashe-novoe-kino-hd.png" tvg-rec="7" catchup-days="7" ,Наше новое кино HD
+http://de.russkoe-iptv.com:88/s/654e5896/nashe-novoe-kino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-bestseller" tvg-logo="https://rutv.aws-static-hosting.com/streams/russkij-bestseller.png" tvg-rec="7" catchup-days="7" ,Русский Бестселлер
+http://de.russkoe-iptv.com:88/s/654e5896/russkij-bestseller.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="dom-kino" tvg-logo="https://rutv.aws-static-hosting.com/streams/dom-kino.png" tvg-rec="7" catchup-days="7" ,Дом Кино
+http://de.russkoe-iptv.com:88/s/654e5896/dom-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="dom-kino-premium-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/dom-kino-premium-hd.png" tvg-rec="7" catchup-days="7" ,Дом Кино Премиум HD
+http://de.russkoe-iptv.com:88/s/654e5896/dom-kino-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-roman" tvg-logo="https://rutv.aws-static-hosting.com/streams/russkij-roman.png" tvg-rec="7" catchup-days="7" ,Русский Роман
+http://de.russkoe-iptv.com:88/s/654e5896/russkij-roman.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-roman-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/russkij-roman-hd.png" tvg-rec="7" catchup-days="7" ,Русский Роман HD
+http://de.russkoe-iptv.com:88/s/654e5896/russkij-roman-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-detektiv" tvg-logo="https://rutv.aws-static-hosting.com/streams/russkij-detektiv.png" tvg-rec="7" catchup-days="7" ,Русский Детектив
+http://de.russkoe-iptv.com:88/s/654e5896/russkij-detektiv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion" tvg-logo="https://rutv.aws-static-hosting.com/streams/russkij-iluzion.png" tvg-rec="7" catchup-days="7" ,Русский Иллюзион
+http://de.russkoe-iptv.com:88/s/654e5896/russkij-iluzion.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/russkij-iluzion-hd.png" tvg-rec="7" catchup-days="7" ,Русский Иллюзион HD
+http://de.russkoe-iptv.com:88/s/654e5896/russkij-iluzion-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="iluzion-plus" tvg-logo="https://rutv.aws-static-hosting.com/streams/iluzion-plus.png" tvg-rec="7" catchup-days="7" ,Иллюзион +
+http://de.russkoe-iptv.com:88/s/654e5896/iluzion-plus.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="iluzion-plus-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/iluzion-plus-hd.png" tvg-rec="7" catchup-days="7" ,Иллюзион + HD
+http://de.russkoe-iptv.com:88/s/654e5896/iluzion-plus-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="feniks-plus-kino" tvg-logo="https://rutv.aws-static-hosting.com/streams/feniks-plus-kino.png" tvg-rec="7" catchup-days="7" ,Феникс+Кино
+http://de.russkoe-iptv.com:88/s/654e5896/feniks-plus-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="feniks-plus-kino-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/feniks-plus-kino-hd.png" tvg-rec="7" catchup-days="7" ,Феникс+Кино HD
+http://de.russkoe-iptv.com:88/s/654e5896/feniks-plus-kino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mir-seriala" tvg-logo="https://rutv.aws-static-hosting.com/streams/mir-seriala.png" tvg-rec="7" catchup-days="7" ,Мир Сериала
+http://de.russkoe-iptv.com:88/s/654e5896/mir-seriala.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mir-seriala-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/mir-seriala-hd.png" tvg-rec="7" catchup-days="7" ,Мир Сериала HD
+http://de.russkoe-iptv.com:88/s/654e5896/mir-seriala-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="romantichnoe-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/romantichnoe-hd.png" tvg-rec="7" catchup-days="7" ,Романтичное HD
+http://de.russkoe-iptv.com:88/s/654e5896/romantichnoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="pro-lubov-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/pro-lubov-hd.png" tvg-rec="7" catchup-days="7" ,Про Любовь HD
+http://de.russkoe-iptv.com:88/s/654e5896/pro-lubov-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="love-story-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/love-story-hd.png" tvg-rec="7" catchup-days="7" ,Лавстори HD
+http://de.russkoe-iptv.com:88/s/654e5896/love-story-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ntv-hit" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-hit.png" tvg-rec="7" catchup-days="7" ,НТВ Хит
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-hit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ntv-hit-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-hit-hd.png" tvg-rec="7" catchup-days="7" ,НТВ Хит HD
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-hit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ntv-serial" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-serial.png" tvg-rec="7" catchup-days="7" ,НТВ Сериал
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-serial.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ntv-serial-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-serial-hd.png" tvg-rec="7" catchup-days="7" ,НТВ Сериал HD
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-serial-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nostalgia" tvg-logo="https://rutv.aws-static-hosting.com/streams/nostalgia.png" tvg-rec="7" catchup-days="7" ,Ностальгия
+http://de.russkoe-iptv.com:88/s/654e5896/nostalgia.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="retro" tvg-logo="https://rutv.aws-static-hosting.com/streams/retro.png" tvg-rec="7" catchup-days="7" ,Ретро ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/retro.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="sapfir-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/sapfir-hd.png" tvg-rec="7" catchup-days="7" ,Сапфир HD
+http://de.russkoe-iptv.com:88/s/654e5896/sapfir-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="dorama-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/dorama-hd.png" tvg-rec="7" catchup-days="7" ,Дорама HD
+http://de.russkoe-iptv.com:88/s/654e5896/dorama-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="bollywood" tvg-logo="https://rutv.aws-static-hosting.com/streams/bollywood.png" tvg-rec="7" catchup-days="7" ,Bollywood HD
+http://de.russkoe-iptv.com:88/s/654e5896/bollywood.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="indija-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/indija-tv.png" tvg-rec="7" catchup-days="7" ,Индийское Кино
+http://de.russkoe-iptv.com:88/s/654e5896/indija-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="zee-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/zee-tv.png" tvg-rec="7" catchup-days="7" ,Индия ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/zee-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="zee-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/zee-tv-hd.png" tvg-rec="7" catchup-days="7" ,Индия ТВ HD
+http://de.russkoe-iptv.com:88/s/654e5896/zee-tv-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="nash-futbol" tvg-logo="https://rutv.aws-static-hosting.com/streams/nash-futbol.png" tvg-rec="7" catchup-days="7" ,Матч Премьер
+http://de.russkoe-iptv.com:88/s/654e5896/nash-futbol.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="nash-futbol-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nash-futbol-hd.png" tvg-rec="7" catchup-days="7" ,Матч Премьер HD
+http://de.russkoe-iptv.com:88/s/654e5896/nash-futbol-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol" tvg-logo="https://rutv.aws-static-hosting.com/streams/futbol.png" tvg-rec="7" catchup-days="7" ,Футбол
+http://de.russkoe-iptv.com:88/s/654e5896/futbol.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/futbol-hd.png" tvg-rec="7" catchup-days="7" ,Футбол HD
+http://de.russkoe-iptv.com:88/s/654e5896/futbol-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-1" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-futbol-1.png" tvg-rec="7" catchup-days="7" ,МАТЧ! Футбол 1
+http://de.russkoe-iptv.com:88/s/654e5896/match-futbol-1.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol1-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-futbol1-hd.png" tvg-rec="7" catchup-days="7" ,МАТЧ! Футбол 1 HD
+http://de.russkoe-iptv.com:88/s/654e5896/match-futbol1-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-futbol-2.png" tvg-rec="7" catchup-days="7" ,МАТЧ! Футбол 2
+http://de.russkoe-iptv.com:88/s/654e5896/match-futbol-2.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol2-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-futbol2-hd.png" tvg-rec="7" catchup-days="7" ,МАТЧ! Футбол 2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/match-futbol2-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-3" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-futbol-3.png" tvg-rec="7" catchup-days="7" ,МАТЧ! Футбол 3
+http://de.russkoe-iptv.com:88/s/654e5896/match-futbol-3.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol3-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-futbol3-hd.png" tvg-rec="7" catchup-days="7" ,МАТЧ! Футбол 3 HD
+http://de.russkoe-iptv.com:88/s/654e5896/match-futbol3-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match" tvg-logo="https://rutv.aws-static-hosting.com/streams/match.png" tvg-rec="7" catchup-days="7" ,Матч ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/match.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-tv-hd.png" tvg-rec="7" catchup-days="7" ,Матч ТВ HD
+http://de.russkoe-iptv.com:88/s/654e5896/match-tv-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-igra.png" tvg-rec="7" catchup-days="7" ,Матч! Игра
+http://de.russkoe-iptv.com:88/s/654e5896/match-igra.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-igra-hd.png" tvg-rec="7" catchup-days="7" ,Матч! Игра HD
+http://de.russkoe-iptv.com:88/s/654e5896/match-igra-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-arena" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-arena.png" tvg-rec="7" catchup-days="7" ,Матч! Арена
+http://de.russkoe-iptv.com:88/s/654e5896/match-arena.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-arena-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-arena-hd.png" tvg-rec="7" catchup-days="7" ,Матч! Арена HD
+http://de.russkoe-iptv.com:88/s/654e5896/match-arena-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-nash-sport" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-nash-sport.png" tvg-rec="7" catchup-days="7" ,Матч! Страна
+http://de.russkoe-iptv.com:88/s/654e5896/match-nash-sport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-strana-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-strana-hd.png" tvg-rec="7" catchup-days="7" ,Матч! Страна HD
+http://de.russkoe-iptv.com:88/s/654e5896/match-strana-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="start-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/start-hd.png" tvg-rec="7" catchup-days="7" ,Старт HD
+http://de.russkoe-iptv.com:88/s/654e5896/start-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="khl-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/khl-tv.png" tvg-rec="7" catchup-days="7" ,KHL
+http://de.russkoe-iptv.com:88/s/654e5896/khl-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="khl-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/khl-tv-hd.png" tvg-rec="7" catchup-days="7" ,KHL HD
+http://de.russkoe-iptv.com:88/s/654e5896/khl-tv-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="khl-prime-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/khl-prime-hd.png" tvg-rec="7" catchup-days="7" ,KHL Prime HD
+http://de.russkoe-iptv.com:88/s/654e5896/khl-prime-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="hokkejnyj-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/hokkejnyj-hd.png" tvg-rec="7" catchup-days="7" ,Хоккейный HD
+http://de.russkoe-iptv.com:88/s/654e5896/hokkejnyj-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbolnyj-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/futbolnyj-hd.png" tvg-rec="7" catchup-days="7" ,Футбольный HD
+http://de.russkoe-iptv.com:88/s/654e5896/futbolnyj-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sportivnyj-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/sportivnyj-hd.png" tvg-rec="7" catchup-days="7" ,Спортивный HD
+http://de.russkoe-iptv.com:88/s/654e5896/sportivnyj-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="super-tennis-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/super-tennis-hd.png" tvg-rec="7" catchup-days="7" ,Super Tennis HD
+http://de.russkoe-iptv.com:88/s/654e5896/super-tennis-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport1-baltic" tvg-logo="https://rutv.aws-static-hosting.com/streams/sport1-baltic.png" tvg-rec="7" catchup-days="7" ,Sport1 Baltic
+http://de.russkoe-iptv.com:88/s/654e5896/sport1-baltic.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="https://rutv.aws-static-hosting.com/streams/viasat-sport.png" tvg-rec="7" catchup-days="7" ,Viju+ sport
+http://de.russkoe-iptv.com:88/s/654e5896/viasat-sport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="viasat-sport-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/viasat-sport-hd.png" tvg-rec="7" catchup-days="7" ,Viju+ sport HD
+http://de.russkoe-iptv.com:88/s/654e5896/viasat-sport-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="trace-sport-stars-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/trace-sport-stars-hd.png" tvg-rec="7" catchup-days="7" ,Trace Sport Stars HD
+http://de.russkoe-iptv.com:88/s/654e5896/trace-sport-stars-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="evrosport" tvg-logo="https://rutv.aws-static-hosting.com/streams/evrosport.png" tvg-rec="7" catchup-days="7" ,Eurosport 1
+http://de.russkoe-iptv.com:88/s/654e5896/evrosport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/eurosport-hd.png" tvg-rec="7" catchup-days="7" ,Eurosport 1 HD
+http://de.russkoe-iptv.com:88/s/654e5896/eurosport-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="evrosport-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/evrosport-2.png" tvg-rec="7" catchup-days="7" ,Eurosport 2
+http://de.russkoe-iptv.com:88/s/654e5896/evrosport-2.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport2-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/eurosport2-hd.png" tvg-rec="7" catchup-days="7" ,Eurosport 2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/eurosport2-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-eurasia" tvg-logo="https://rutv.aws-static-hosting.com/streams/setanta-eurasia.png" tvg-rec="7" catchup-days="7" ,Setanta Sports 1 HD
+http://de.russkoe-iptv.com:88/s/654e5896/setanta-eurasia.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-eurasia-plus" tvg-logo="https://rutv.aws-static-hosting.com/streams/setanta-eurasia-plus.png" tvg-rec="7" catchup-days="7" ,Setanta Sports 2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/setanta-eurasia-plus.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-hd-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/setanta-sport-hd-ua.png" tvg-rec="7" catchup-days="7" ,Setanta Sports Ukraine HD
+http://de.russkoe-iptv.com:88/s/654e5896/setanta-sport-hd-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-plus-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/setanta-sport-plus-ua-hd.png" tvg-rec="7" catchup-days="7" ,Setanta Sports + Ukraine HD
+http://de.russkoe-iptv.com:88/s/654e5896/setanta-sport-plus-ua-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-qazaqstan-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/setanta-qazaqstan-hd.png" tvg-rec="7" catchup-days="7" ,Setanta Qazaqstan HD
+http://de.russkoe-iptv.com:88/s/654e5896/setanta-qazaqstan-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="qsport-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/qsport-hd.png" tvg-rec="7" catchup-days="7" ,QSport HD
+http://de.russkoe-iptv.com:88/s/654e5896/qsport-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport1-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/sport1-ua.png" tvg-rec="7" catchup-days="7" ,Спорт 1
+http://de.russkoe-iptv.com:88/s/654e5896/sport1-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport2-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/sport2-ua.png" tvg-rec="7" catchup-days="7" ,Спорт 2
+http://de.russkoe-iptv.com:88/s/654e5896/sport2-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="m1-global-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/m1-global-tv.png" tvg-rec="7" catchup-days="7" ,MMA-TV
+http://de.russkoe-iptv.com:88/s/654e5896/m1-global-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="m1-global-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/m1-global-hd.png" tvg-rec="7" catchup-days="7" ,MMA-TV HD
+http://de.russkoe-iptv.com:88/s/654e5896/m1-global-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="ufc-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ufc-hd.png" tvg-rec="7" catchup-days="7" ,UDAR HD
+http://de.russkoe-iptv.com:88/s/654e5896/ufc-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-boec" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-boec.png" tvg-rec="7" catchup-days="7" ,МАТЧ! Боец
+http://de.russkoe-iptv.com:88/s/654e5896/match-boec.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-boec-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-boec-hd.png" tvg-rec="7" catchup-days="7" ,Матч! Боец HD
+http://de.russkoe-iptv.com:88/s/654e5896/match-boec-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="tochka-otryva" tvg-logo="https://rutv.aws-static-hosting.com/streams/tochka-otryva.png" tvg-rec="0" catchup-days="0" ,Точка Отрыва
+http://de.russkoe-iptv.com:88/s/654e5896/tochka-otryva.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="russkij-extrim-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/russkij-extrim-hd.png" tvg-rec="7" catchup-days="7" ,Русский Экстрим HD
+http://de.russkoe-iptv.com:88/s/654e5896/russkij-extrim-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="https://rutv.aws-static-hosting.com/streams/extreme-sports.png" tvg-rec="0" catchup-days="0" ,Extreme Sports
+http://de.russkoe-iptv.com:88/s/654e5896/extreme-sports.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="konnyj-mir-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/konnyj-mir-hd.png" tvg-rec="7" catchup-days="7" ,Конный Мир HD
+http://de.russkoe-iptv.com:88/s/654e5896/konnyj-mir-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="avto-plus" tvg-logo="https://rutv.aws-static-hosting.com/streams/avto-plus.png" tvg-rec="7" catchup-days="7" ,Авто Плюс
+http://de.russkoe-iptv.com:88/s/654e5896/avto-plus.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="auto-plus-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/auto-plus-hd.png" tvg-rec="7" catchup-days="7" ,Авто Плюс HD
+http://de.russkoe-iptv.com:88/s/654e5896/auto-plus-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="avto-24-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/avto-24-hd.png" tvg-rec="7" catchup-days="7" ,Авто 24 HD
+http://de.russkoe-iptv.com:88/s/654e5896/avto-24-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="drive" tvg-logo="https://rutv.aws-static-hosting.com/streams/drive.png" tvg-rec="7" catchup-days="7" ,Драйв
+http://de.russkoe-iptv.com:88/s/654e5896/drive.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="pervyj-avto-hd-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/pervyj-avto-hd-ua.png" tvg-rec="7" catchup-days="7" ,Первый Автомобильный HD
+http://de.russkoe-iptv.com:88/s/654e5896/pervyj-avto-hd-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="motorsport-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/motorsport-hd.png" tvg-rec="7" catchup-days="7" ,Моторспорт ТВ HD
+http://de.russkoe-iptv.com:88/s/654e5896/motorsport-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-mir" tvg-logo="https://rutv.aws-static-hosting.com/streams/detskij-mir.png" tvg-rec="7" catchup-days="7" ,Детский мир
+http://de.russkoe-iptv.com:88/s/654e5896/detskij-mir.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-mir-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/detskij-mir-hd.png" tvg-rec="7" catchup-days="7" ,Детский Мир HD
+http://de.russkoe-iptv.com:88/s/654e5896/detskij-mir-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="karusel" tvg-logo="https://rutv.aws-static-hosting.com/streams/karusel.png" tvg-rec="7" catchup-days="7" ,Карусель
+http://de.russkoe-iptv.com:88/s/654e5896/karusel.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="karusel-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/karusel-hd.png" tvg-rec="7" catchup-days="7" ,Карусель HD
+http://de.russkoe-iptv.com:88/s/654e5896/karusel-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gosti-skazka" tvg-logo="https://rutv.aws-static-hosting.com/streams/gosti-skazka.png" tvg-rec="7" catchup-days="7" ,В гостях у сказки
+http://de.russkoe-iptv.com:88/s/654e5896/gosti-skazka.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gosti-skazka-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/gosti-skazka-hd.png" tvg-rec="7" catchup-days="7" ,В гостях у сказки HD
+http://de.russkoe-iptv.com:88/s/654e5896/gosti-skazka-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="chizik-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/chizik-hd.png" tvg-rec="7" catchup-days="7" ,Чижик HD
+http://de.russkoe-iptv.com:88/s/654e5896/chizik-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="mult" tvg-logo="https://rutv.aws-static-hosting.com/streams/mult.png" tvg-rec="7" catchup-days="7" ,Мульт
+http://de.russkoe-iptv.com:88/s/654e5896/mult.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="tlum-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tlum-hd.png" tvg-rec="7" catchup-days="7" ,Мульт HD
+http://de.russkoe-iptv.com:88/s/654e5896/tlum-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="multimania" tvg-logo="https://rutv.aws-static-hosting.com/streams/multimania.png" tvg-rec="7" catchup-days="7" ,Мультиландия
+http://de.russkoe-iptv.com:88/s/654e5896/multimania.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="multimania-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/multimania-hd.png" tvg-rec="7" catchup-days="7" ,Мультиландия HD
+http://de.russkoe-iptv.com:88/s/654e5896/multimania-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="strana" tvg-logo="https://rutv.aws-static-hosting.com/streams/strana.png" tvg-rec="7" catchup-days="7" ,Мультимузыка
+http://de.russkoe-iptv.com:88/s/654e5896/strana.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ctc-kids" tvg-logo="https://rutv.aws-static-hosting.com/streams/ctc-kids.png" tvg-rec="7" catchup-days="7" ,СТС Kids
+http://de.russkoe-iptv.com:88/s/654e5896/ctc-kids.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ctc-kids-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ctc-kids-hd.png" tvg-rec="7" catchup-days="7" ,СТС Kids HD
+http://de.russkoe-iptv.com:88/s/654e5896/ctc-kids-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ginger-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ginger-hd.png" tvg-rec="7" catchup-days="7" ,Капитан Фантастика HD
+http://de.russkoe-iptv.com:88/s/654e5896/ginger-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="super-geroi-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/super-geroi-hd.png" tvg-rec="7" catchup-days="7" ,СуперГерои HD
+http://de.russkoe-iptv.com:88/s/654e5896/super-geroi-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ryzhij" tvg-logo="https://rutv.aws-static-hosting.com/streams/ryzhij.png" tvg-rec="7" catchup-days="7" ,Рыжий
+http://de.russkoe-iptv.com:88/s/654e5896/ryzhij.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detksij" tvg-logo="https://rutv.aws-static-hosting.com/streams/detksij.png" tvg-rec="7" catchup-days="7" ,Уникум
+http://de.russkoe-iptv.com:88/s/654e5896/detksij.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/detskij-hd.png" tvg-rec="7" catchup-days="7" ,Уникум HD
+http://de.russkoe-iptv.com:88/s/654e5896/detskij-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ducktv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ducktv-hd.png" tvg-rec="7" catchup-days="7" ,Ducktv HD
+http://de.russkoe-iptv.com:88/s/654e5896/ducktv-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ljova-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ljova-hd.png" tvg-rec="7" catchup-days="7" ,Лёва HD
+http://de.russkoe-iptv.com:88/s/654e5896/ljova-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="solnce" tvg-logo="https://rutv.aws-static-hosting.com/streams/solnce.png" tvg-rec="7" catchup-days="7" ,Солнце
+http://de.russkoe-iptv.com:88/s/654e5896/solnce.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="kanal-o" tvg-logo="https://rutv.aws-static-hosting.com/streams/kanal-o.png" tvg-rec="7" catchup-days="7" ,О!
+http://de.russkoe-iptv.com:88/s/654e5896/kanal-o.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon" tvg-logo="https://rutv.aws-static-hosting.com/streams/nickelodeon.png" tvg-rec="7" catchup-days="7" ,Nickelodeon
+http://de.russkoe-iptv.com:88/s/654e5896/nickelodeon.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="cartoon-network" tvg-logo="https://rutv.aws-static-hosting.com/streams/cartoon-network.png" tvg-rec="7" catchup-days="7" ,Cartoon Network
+http://de.russkoe-iptv.com:88/s/654e5896/cartoon-network.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="tip-top-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tip-top-hd.png" tvg-rec="7" catchup-days="7" ,ТипТоп HD
+http://de.russkoe-iptv.com:88/s/654e5896/tip-top-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="cartoonito-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/cartoonito-hd.png" tvg-rec="7" catchup-days="7" ,Cartoonito HD
+http://de.russkoe-iptv.com:88/s/654e5896/cartoonito-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickjr" tvg-logo="https://rutv.aws-static-hosting.com/streams/nickjr.png" tvg-rec="7" catchup-days="7" ,Nick Jr
+http://de.russkoe-iptv.com:88/s/654e5896/nickjr.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="tiji" tvg-logo="https://rutv.aws-static-hosting.com/streams/tiji.png" tvg-rec="7" catchup-days="7" ,TiJi
+http://de.russkoe-iptv.com:88/s/654e5896/tiji.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="jimjam" tvg-logo="https://rutv.aws-static-hosting.com/streams/jimjam.png" tvg-rec="7" catchup-days="7" ,JimJam
+http://de.russkoe-iptv.com:88/s/654e5896/jimjam.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gulli" tvg-logo="https://rutv.aws-static-hosting.com/streams/gulli.png" tvg-rec="7" catchup-days="7" ,Gulli Girl
+http://de.russkoe-iptv.com:88/s/654e5896/gulli.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ani" tvg-logo="https://rutv.aws-static-hosting.com/streams/ani.png" tvg-rec="7" catchup-days="7" ,Ani
+http://de.russkoe-iptv.com:88/s/654e5896/ani.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="2x2" tvg-logo="https://rutv.aws-static-hosting.com/streams/2x2.png" tvg-rec="7" catchup-days="7" ,2x2
+http://de.russkoe-iptv.com:88/s/654e5896/2x2.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="fan-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/fan-hd.png" tvg-rec="7" catchup-days="7" ,FAN HD
+http://de.russkoe-iptv.com:88/s/654e5896/fan-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nikki-junior-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nikki-junior-hd.png" tvg-rec="7" catchup-days="7" ,Niki Junior HD
+http://de.russkoe-iptv.com:88/s/654e5896/nikki-junior-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nikki-kids-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nikki-kids-hd.png" tvg-rec="7" catchup-days="7" ,Niki Kids HD
+http://de.russkoe-iptv.com:88/s/654e5896/nikki-kids-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="plus-plus-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/plus-plus-ua-hd.png" tvg-rec="7" catchup-days="7" ,ПлюсПлюс HD
+http://de.russkoe-iptv.com:88/s/654e5896/plus-plus-ua-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="national-geographic" tvg-logo="https://rutv.aws-static-hosting.com/streams/national-geographic.png" tvg-rec="7" catchup-days="7" ,National Geographic
+http://de.russkoe-iptv.com:88/s/654e5896/national-geographic.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nat-geo-hd.png" tvg-rec="7" catchup-days="7" ,National Geographic HD
+http://de.russkoe-iptv.com:88/s/654e5896/nat-geo-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery" tvg-logo="https://rutv.aws-static-hosting.com/streams/discovery.png" tvg-rec="7" catchup-days="7" ,Discovery Channel
+http://de.russkoe-iptv.com:88/s/654e5896/discovery.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/discovery-hd.png" tvg-rec="7" catchup-days="7" ,Discovery Channel HD
+http://de.russkoe-iptv.com:88/s/654e5896/discovery-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-science" tvg-logo="https://rutv.aws-static-hosting.com/streams/discovery-science.png" tvg-rec="7" catchup-days="7" ,Discovery Science
+http://de.russkoe-iptv.com:88/s/654e5896/discovery-science.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-science-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/discovery-science-hd.png" tvg-rec="7" catchup-days="7" ,Discovery Science HD
+http://de.russkoe-iptv.com:88/s/654e5896/discovery-science-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dtx" tvg-logo="https://rutv.aws-static-hosting.com/streams/dtx.png" tvg-rec="7" catchup-days="7" ,DTX
+http://de.russkoe-iptv.com:88/s/654e5896/dtx.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dtx-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/dtx-hd.png" tvg-rec="7" catchup-days="7" ,DTX HD
+http://de.russkoe-iptv.com:88/s/654e5896/dtx-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="id-xtra" tvg-logo="https://rutv.aws-static-hosting.com/streams/id-xtra.png" tvg-rec="7" catchup-days="7" ,Investigation Discovery
+http://de.russkoe-iptv.com:88/s/654e5896/id-xtra.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="id-xtra-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/id-xtra-hd.png" tvg-rec="7" catchup-days="7" ,Investigation Discovery HD
+http://de.russkoe-iptv.com:88/s/654e5896/id-xtra-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="tlc" tvg-logo="https://rutv.aws-static-hosting.com/streams/tlc.png" tvg-rec="7" catchup-days="7" ,TLC
+http://de.russkoe-iptv.com:88/s/654e5896/tlc.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="tlc-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tlc-hd.png" tvg-rec="7" catchup-days="7" ,TLC HD
+http://de.russkoe-iptv.com:88/s/654e5896/tlc-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="womens-magazine-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/womens-magazine-hd.png" tvg-rec="7" catchup-days="7" ,Womens Magazine HD
+http://de.russkoe-iptv.com:88/s/654e5896/womens-magazine-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-planet" tvg-logo="https://rutv.aws-static-hosting.com/streams/animal-planet.png" tvg-rec="7" catchup-days="7" ,Animal planet
+http://de.russkoe-iptv.com:88/s/654e5896/animal-planet.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-planet-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/animal-planet-hd.png" tvg-rec="7" catchup-days="7" ,Animal Planet HD
+http://de.russkoe-iptv.com:88/s/654e5896/animal-planet-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild" tvg-logo="https://rutv.aws-static-hosting.com/streams/nat-geo-wild.png" tvg-rec="7" catchup-days="7" ,Nat Geo Wild
+http://de.russkoe-iptv.com:88/s/654e5896/nat-geo-wild.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nat-geo-wild-hd.png" tvg-rec="7" catchup-days="7" ,Nat Geo Wild HD
+http://de.russkoe-iptv.com:88/s/654e5896/nat-geo-wild-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="love-nature-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/love-nature-hd.png" tvg-rec="7" catchup-days="7" ,Love Nature HD
+http://de.russkoe-iptv.com:88/s/654e5896/love-nature-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-family-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/animal-family-hd.png" tvg-rec="7" catchup-days="7" ,В мире животных HD
+http://de.russkoe-iptv.com:88/s/654e5896/animal-family-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="https://rutv.aws-static-hosting.com/streams/viasat-nature.png" tvg-rec="7" catchup-days="7" ,Viju nature
+http://de.russkoe-iptv.com:88/s/654e5896/viasat-nature.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/viasat-nature-hd.png" tvg-rec="7" catchup-days="7" ,Viju nature HD
+http://de.russkoe-iptv.com:88/s/654e5896/viasat-nature-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history-hd-test" tvg-logo="https://rutv.aws-static-hosting.com/streams/viasat-history-hd-test.png" tvg-rec="7" catchup-days="7" ,Viju+ planet HD
+http://de.russkoe-iptv.com:88/s/654e5896/viasat-history-hd-test.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explorer" tvg-logo="https://rutv.aws-static-hosting.com/streams/viasat-explorer.png" tvg-rec="7" catchup-days="7" ,Viju explore
+http://de.russkoe-iptv.com:88/s/654e5896/viasat-explorer.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/viasat-explore-hd.png" tvg-rec="7" catchup-days="7" ,Viju explore HD
+http://de.russkoe-iptv.com:88/s/654e5896/viasat-explore-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://rutv.aws-static-hosting.com/streams/moya-planeta.png" tvg-rec="7" catchup-days="7" ,Моя планета
+http://de.russkoe-iptv.com:88/s/654e5896/moya-planeta.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="planeta-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/planeta-hd.png" tvg-rec="7" catchup-days="7" ,Моя планета HD
+http://de.russkoe-iptv.com:88/s/654e5896/planeta-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="https://rutv.aws-static-hosting.com/streams/zhivaya-planeta.png" tvg-rec="7" catchup-days="7" ,Живая Планета
+http://de.russkoe-iptv.com:88/s/654e5896/zhivaya-planeta.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaja-priroda-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/zhivaja-priroda-hd.png" tvg-rec="7" catchup-days="7" ,Живая природа HD
+http://de.russkoe-iptv.com:88/s/654e5896/zhivaja-priroda-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="big-planet-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/big-planet-hd.png" tvg-rec="7" catchup-days="7" ,Big Planet HD
+http://de.russkoe-iptv.com:88/s/654e5896/big-planet-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="terra-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/terra-hd.png" tvg-rec="7" catchup-days="7" ,Terra HD
+http://de.russkoe-iptv.com:88/s/654e5896/terra-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="https://rutv.aws-static-hosting.com/streams/travel-channel.png" tvg-rec="7" catchup-days="7" ,Travel Channel
+http://de.russkoe-iptv.com:88/s/654e5896/travel-channel.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-channel-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/travel-channel-hd.png" tvg-rec="7" catchup-days="7" ,Travel Channel HD
+http://de.russkoe-iptv.com:88/s/654e5896/travel-channel-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="https://rutv.aws-static-hosting.com/streams/travel-adventure.png" tvg-rec="7" catchup-days="7" ,Travel+Adventure
+http://de.russkoe-iptv.com:88/s/654e5896/travel-adventure.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/travel-adventure-hd.png" tvg-rec="7" catchup-days="7" ,Travel+Adventure HD
+http://de.russkoe-iptv.com:88/s/654e5896/travel-adventure-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teletravel-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/teletravel-hd.png" tvg-rec="7" catchup-days="7" ,Приключения HD
+http://de.russkoe-iptv.com:88/s/654e5896/teletravel-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teleputeshestvija" tvg-logo="https://rutv.aws-static-hosting.com/streams/teleputeshestvija.png" tvg-rec="7" catchup-days="7" ,Телепутешествия
+http://de.russkoe-iptv.com:88/s/654e5896/teleputeshestvija.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="glazami-turista-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/glazami-turista-hd.png" tvg-rec="7" catchup-days="7" ,Глазами Туриста HD
+http://de.russkoe-iptv.com:88/s/654e5896/glazami-turista-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nasha-tema" tvg-logo="https://rutv.aws-static-hosting.com/streams/nasha-tema.png" tvg-rec="7" catchup-days="7" ,Наша Тема
+http://de.russkoe-iptv.com:88/s/654e5896/nasha-tema.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nasha-tema-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nasha-tema-ua-hd.png" tvg-rec="7" catchup-days="7" ,Наша Тема HD
+http://de.russkoe-iptv.com:88/s/654e5896/nasha-tema-ua-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="poehali-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/poehali-hd.png" tvg-rec="7" catchup-days="7" ,Поехали HD
+http://de.russkoe-iptv.com:88/s/654e5896/poehali-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="big-asia-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/big-asia-hd.png" tvg-rec="7" catchup-days="7" ,Большая Азия HD
+http://de.russkoe-iptv.com:88/s/654e5896/big-asia-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rtg-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/rtg-tv.png" tvg-rec="7" catchup-days="7" ,RTG
+http://de.russkoe-iptv.com:88/s/654e5896/rtg-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/rtg-hd.png" tvg-rec="7" catchup-days="7" ,RTG HD
+http://de.russkoe-iptv.com:88/s/654e5896/rtg-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="hd-life" tvg-logo="https://rutv.aws-static-hosting.com/streams/hd-life.png" tvg-rec="7" catchup-days="7" ,HDL
+http://de.russkoe-iptv.com:88/s/654e5896/hd-life.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ocean-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/ocean-tv.png" tvg-rec="7" catchup-days="7" ,Ocean-TV
+http://de.russkoe-iptv.com:88/s/654e5896/ocean-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="morskoj-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/morskoj-hd.png" tvg-rec="7" catchup-days="7" ,Моя Стихия HD
+http://de.russkoe-iptv.com:88/s/654e5896/morskoj-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zoopark" tvg-logo="https://rutv.aws-static-hosting.com/streams/zoopark.png" tvg-rec="7" catchup-days="7" ,Zooпарк
+http://de.russkoe-iptv.com:88/s/654e5896/zoopark.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ohotnik-rybolov" tvg-logo="https://rutv.aws-static-hosting.com/streams/ohotnik-rybolov.png" tvg-rec="7" catchup-days="7" ,Рыболов
+http://de.russkoe-iptv.com:88/s/654e5896/ohotnik-rybolov.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ohotnik-rybolov-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ohotnik-rybolov-hd.png" tvg-rec="7" catchup-days="7" ,Охотник и рыболов HD
+http://de.russkoe-iptv.com:88/s/654e5896/ohotnik-rybolov-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dikaya-ohota-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/dikaya-ohota-hd.png" tvg-rec="7" catchup-days="7" ,Дикая Охота HD
+http://de.russkoe-iptv.com:88/s/654e5896/dikaya-ohota-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dikaya-rybalka-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/dikaya-rybalka-hd.png" tvg-rec="7" catchup-days="7" ,Дикая Рыбалка HD
+http://de.russkoe-iptv.com:88/s/654e5896/dikaya-rybalka-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oxota-rybalka" tvg-logo="https://rutv.aws-static-hosting.com/streams/oxota-rybalka.png" tvg-rec="7" catchup-days="7" ,Охота и рыбалка
+http://de.russkoe-iptv.com:88/s/654e5896/oxota-rybalka.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dialogi-rybalka" tvg-logo="https://rutv.aws-static-hosting.com/streams/dialogi-rybalka.png" tvg-rec="7" catchup-days="7" ,Диалоги о Рыбалке
+http://de.russkoe-iptv.com:88/s/654e5896/dialogi-rybalka.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dialogi-rybalka-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/dialogi-rybalka-hd.png" tvg-rec="7" catchup-days="7" ,Диалоги о Рыбалке HD
+http://de.russkoe-iptv.com:88/s/654e5896/dialogi-rybalka-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oruzhie" tvg-logo="https://rutv.aws-static-hosting.com/streams/oruzhie.png" tvg-rec="7" catchup-days="7" ,Оружие
+http://de.russkoe-iptv.com:88/s/654e5896/oruzhie.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="arsenal-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/arsenal-hd.png" tvg-rec="7" catchup-days="7" ,Арсенал HD
+http://de.russkoe-iptv.com:88/s/654e5896/arsenal-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="muzhskoj" tvg-logo="https://rutv.aws-static-hosting.com/streams/muzhskoj.png" tvg-rec="7" catchup-days="7" ,Мужской
+http://de.russkoe-iptv.com:88/s/654e5896/muzhskoj.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="t24" tvg-logo="https://rutv.aws-static-hosting.com/streams/t24.png" tvg-rec="7" catchup-days="7" ,Техно 24
+http://de.russkoe-iptv.com:88/s/654e5896/t24.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nauka-20" tvg-logo="https://rutv.aws-static-hosting.com/streams/nauka-20.png" tvg-rec="7" catchup-days="7" ,Наука
+http://de.russkoe-iptv.com:88/s/654e5896/nauka-20.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nauka-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/nauka-hd.png" tvg-rec="7" catchup-days="7" ,Наука HD
+http://de.russkoe-iptv.com:88/s/654e5896/nauka-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="galaxy-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/galaxy-hd.png" tvg-rec="7" catchup-days="7" ,Galaxy HD
+http://de.russkoe-iptv.com:88/s/654e5896/galaxy-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eureka-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/eureka-hd.png" tvg-rec="7" catchup-days="7" ,Первый космический HD
+http://de.russkoe-iptv.com:88/s/654e5896/eureka-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="da-vinci-learning" tvg-logo="https://rutv.aws-static-hosting.com/streams/da-vinci-learning.png" tvg-rec="7" catchup-days="7" ,Da Vinci
+http://de.russkoe-iptv.com:88/s/654e5896/da-vinci-learning.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="curiosity-stream-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/curiosity-stream-hd.png" tvg-rec="7" catchup-days="7" ,Curiosity Stream HD
+http://de.russkoe-iptv.com:88/s/654e5896/curiosity-stream-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="history" tvg-logo="https://rutv.aws-static-hosting.com/streams/history.png" tvg-rec="7" catchup-days="7" ,History
+http://de.russkoe-iptv.com:88/s/654e5896/history.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="history-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/history-hd.png" tvg-rec="7" catchup-days="7" ,History HD
+http://de.russkoe-iptv.com:88/s/654e5896/history-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="h2-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/h2-hd.png" tvg-rec="7" catchup-days="7" ,History 2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/h2-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="https://rutv.aws-static-hosting.com/streams/viasat-history.png" tvg-rec="7" catchup-days="7" ,Viju history
+http://de.russkoe-iptv.com:88/s/654e5896/viasat-history.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/viasat-history-hd.png" tvg-rec="7" catchup-days="7" ,Viju history HD
+http://de.russkoe-iptv.com:88/s/654e5896/viasat-history-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="istorija" tvg-logo="https://rutv.aws-static-hosting.com/streams/istorija.png" tvg-rec="7" catchup-days="7" ,История
+http://de.russkoe-iptv.com:88/s/654e5896/istorija.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="https://rutv.aws-static-hosting.com/streams/365-dnej.png" tvg-rec="7" catchup-days="7" ,365 Дней
+http://de.russkoe-iptv.com:88/s/654e5896/365-dnej.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="sovershenno-sekretno" tvg-logo="https://rutv.aws-static-hosting.com/streams/sovershenno-sekretno.png" tvg-rec="7" catchup-days="7" ,Top Secret
+http://de.russkoe-iptv.com:88/s/654e5896/sovershenno-sekretno.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kto-est-kto" tvg-logo="https://rutv.aws-static-hosting.com/streams/kto-est-kto.png" tvg-rec="7" catchup-days="7" ,Кто есть кто
+http://de.russkoe-iptv.com:88/s/654e5896/kto-est-kto.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kriminalnoe-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kriminalnoe-hd.png" tvg-rec="7" catchup-days="7" ,Криминальное HD
+http://de.russkoe-iptv.com:88/s/654e5896/kriminalnoe-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ntv-pravo" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-pravo.png" tvg-rec="7" catchup-days="7" ,НТВ Право
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-pravo.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zal-suda-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/zal-suda-hd.png" tvg-rec="7" catchup-days="7" ,Зал Суда HD
+http://de.russkoe-iptv.com:88/s/654e5896/zal-suda-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zdorovoe-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/zdorovoe-tv.png" tvg-rec="7" catchup-days="7" ,Доктор
+http://de.russkoe-iptv.com:88/s/654e5896/zdorovoe-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zdorovoe-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/zdorovoe-tv-hd.png" tvg-rec="7" catchup-days="7" ,Доктор HD
+http://de.russkoe-iptv.com:88/s/654e5896/zdorovoe-tv-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="voprosy-otvety" tvg-logo="https://rutv.aws-static-hosting.com/streams/voprosy-otvety.png" tvg-rec="7" catchup-days="7" ,Вопросы и ответы
+http://de.russkoe-iptv.com:88/s/654e5896/voprosy-otvety.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivi" tvg-logo="https://rutv.aws-static-hosting.com/streams/zhivi.png" tvg-rec="7" catchup-days="7" ,Живи
+http://de.russkoe-iptv.com:88/s/654e5896/zhivi.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivi-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/zhivi-hd.png" tvg-rec="7" catchup-days="7" ,Живи HD
+http://de.russkoe-iptv.com:88/s/654e5896/zhivi-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="usadba" tvg-logo="https://rutv.aws-static-hosting.com/streams/usadba.png" tvg-rec="7" catchup-days="7" ,Усадьба
+http://de.russkoe-iptv.com:88/s/654e5896/usadba.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="domashnije-zhivotnye" tvg-logo="https://rutv.aws-static-hosting.com/streams/domashnije-zhivotnye.png" tvg-rec="7" catchup-days="7" ,Домашние животные
+http://de.russkoe-iptv.com:88/s/654e5896/domashnije-zhivotnye.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zagorodnyy-int-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/zagorodnyy-int-hd.png" tvg-rec="7" catchup-days="7" ,Загородный int HD
+http://de.russkoe-iptv.com:88/s/654e5896/zagorodnyy-int-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zagorodnaya-zhizn" tvg-logo="https://rutv.aws-static-hosting.com/streams/zagorodnaya-zhizn.png" tvg-rec="7" catchup-days="7" ,Загородная Жизнь HD
+http://de.russkoe-iptv.com:88/s/654e5896/zagorodnaya-zhizn.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ntv-style" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-style.png" tvg-rec="7" catchup-days="7" ,НТВ Стиль
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-style.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ntv-style-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-style-hd.png" tvg-rec="7" catchup-days="7" ,НТВ Стиль HD
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-style-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="bober" tvg-logo="https://rutv.aws-static-hosting.com/streams/bober.png" tvg-rec="7" catchup-days="7" ,Бобер
+http://de.russkoe-iptv.com:88/s/654e5896/bober.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="hgtv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/hgtv-hd.png" tvg-rec="7" catchup-days="7" ,HGTV HD
+http://de.russkoe-iptv.com:88/s/654e5896/hgtv-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kanal-e-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kanal-e-hd.png" tvg-rec="7" catchup-days="7" ,E HD
+http://de.russkoe-iptv.com:88/s/654e5896/kanal-e-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="fashion-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/fashion-tv.png" tvg-rec="7" catchup-days="7" ,Fashion and LifeStyle HD
+http://de.russkoe-iptv.com:88/s/654e5896/fashion-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eda" tvg-logo="https://rutv.aws-static-hosting.com/streams/eda.png" tvg-rec="7" catchup-days="7" ,Еда
+http://de.russkoe-iptv.com:88/s/654e5896/eda.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eda-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/eda-hd.png" tvg-rec="7" catchup-days="7" ,Food Time HD
+http://de.russkoe-iptv.com:88/s/654e5896/eda-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="food-network-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/food-network-hd.png" tvg-rec="7" catchup-days="7" ,Food Network HD
+http://de.russkoe-iptv.com:88/s/654e5896/food-network-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kuxnya-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/kuxnya-tv.png" tvg-rec="7" catchup-days="7" ,Кухня ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/kuxnya-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="telekafe" tvg-logo="https://rutv.aws-static-hosting.com/streams/telekafe.png" tvg-rec="7" catchup-days="7" ,Телекафе
+http://de.russkoe-iptv.com:88/s/654e5896/telekafe.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="1hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/1hd.png" tvg-rec="0" catchup-days="0" ,1HD
+http://de.russkoe-iptv.com:88/s/654e5896/1hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="muz-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/muz-tv.png" tvg-rec="0" catchup-days="0" ,Муз-ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/muz-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="muz-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/muz-tv-hd.png" tvg-rec="0" catchup-days="0" ,Муз-ТВ HD
+http://de.russkoe-iptv.com:88/s/654e5896/muz-tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="https://rutv.aws-static-hosting.com/streams/muzyka-pervogo.png" tvg-rec="0" catchup-days="0" ,Музыка Первого
+http://de.russkoe-iptv.com:88/s/654e5896/muzyka-pervogo.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="evropa-plus-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/evropa-plus-tv.png" tvg-rec="0" catchup-days="0" ,Europa Plus TV
+http://de.russkoe-iptv.com:88/s/654e5896/evropa-plus-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="evropa-plus-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/evropa-plus-tv-hd.png" tvg-rec="0" catchup-days="0" ,Europa Plus TV HD
+http://de.russkoe-iptv.com:88/s/654e5896/evropa-plus-tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="music-box-gold" tvg-logo="https://rutv.aws-static-hosting.com/streams/music-box-gold.png" tvg-rec="0" catchup-days="0" ,Music Box Gold
+http://de.russkoe-iptv.com:88/s/654e5896/music-box-gold.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="music-box-russian" tvg-logo="https://rutv.aws-static-hosting.com/streams/music-box-russian.png" tvg-rec="0" catchup-days="0" ,Russian MusicBox
+http://de.russkoe-iptv.com:88/s/654e5896/music-box-russian.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="russian-musicbox-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/russian-musicbox-hd.png" tvg-rec="0" catchup-days="0" ,Russian MusicBox HD
+http://de.russkoe-iptv.com:88/s/654e5896/russian-musicbox-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="tnt-music" tvg-logo="https://rutv.aws-static-hosting.com/streams/tnt-music.png" tvg-rec="0" catchup-days="0" ,ТНТ Music
+http://de.russkoe-iptv.com:88/s/654e5896/tnt-music.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="o2tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/o2tv-hd.png" tvg-rec="0" catchup-days="0" ,O!2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/o2tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="zhara" tvg-logo="https://rutv.aws-static-hosting.com/streams/zhara.png" tvg-rec="0" catchup-days="0" ,Жара
+http://de.russkoe-iptv.com:88/s/654e5896/zhara.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="zhara-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/zhara.png" tvg-rec="0" catchup-days="0" ,Жара HD
+http://de.russkoe-iptv.com:88/s/654e5896/zhara-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="ru-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/ru-tv.png" tvg-rec="0" catchup-days="0" ,RU TV
+http://de.russkoe-iptv.com:88/s/654e5896/ru-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="ru-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ru-tv-hd.png" tvg-rec="0" catchup-days="0" ,RU TV HD
+http://de.russkoe-iptv.com:88/s/654e5896/ru-tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="aiva-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/aiva-hd.png" tvg-rec="0" catchup-days="0" ,AIVA HD
+http://de.russkoe-iptv.com:88/s/654e5896/aiva-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="kronehit-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kronehit-hd.png" tvg-rec="0" catchup-days="0" ,Kronehit HD
+http://de.russkoe-iptv.com:88/s/654e5896/kronehit-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="one-by-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/one-by-hd.png" tvg-rec="0" catchup-days="0" ,One BY HD
+http://de.russkoe-iptv.com:88/s/654e5896/one-by-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="one-by-russia-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/one-by-russia-hd.png" tvg-rec="0" catchup-days="0" ,One by Russia HD
+http://de.russkoe-iptv.com:88/s/654e5896/one-by-russia-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="power-hd-tr" tvg-logo="https://rutv.aws-static-hosting.com/streams/power-hd-tr.png" tvg-rec="0" catchup-days="0" ,Power HD
+http://de.russkoe-iptv.com:88/s/654e5896/power-hd-tr.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="clubbing-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/clubbing-hd.png" tvg-rec="0" catchup-days="0" ,Clubbing HD
+http://de.russkoe-iptv.com:88/s/654e5896/clubbing-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="stav-music-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/stav-music-hd.png" tvg-rec="0" catchup-days="0" ,Stav Music HD
+http://de.russkoe-iptv.com:88/s/654e5896/stav-music-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mooz-dance-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/mooz-dance-hd.png" tvg-rec="0" catchup-days="0" ,Mooz Dance HD
+http://de.russkoe-iptv.com:88/s/654e5896/mooz-dance-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/bridge-tv-hd.png" tvg-rec="0" catchup-days="0" ,Bridge TV Deluxe HD
+http://de.russkoe-iptv.com:88/s/654e5896/bridge-tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-fresh" tvg-logo="https://rutv.aws-static-hosting.com/streams/bridge-tv-fresh.png" tvg-rec="0" catchup-days="0" ,Bridge TV Fresh HD
+http://de.russkoe-iptv.com:88/s/654e5896/bridge-tv-fresh.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/bridge-tv.png" tvg-rec="0" catchup-days="0" ,Bridge TV
+http://de.russkoe-iptv.com:88/s/654e5896/bridge-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-hits" tvg-logo="https://rutv.aws-static-hosting.com/streams/bridge-tv-hits.png" tvg-rec="0" catchup-days="0" ,Bridge TV Hits
+http://de.russkoe-iptv.com:88/s/654e5896/bridge-tv-hits.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-hits-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/bridge-tv-hits-hd.png" tvg-rec="0" catchup-days="0" ,Bridge TV Hits HD
+http://de.russkoe-iptv.com:88/s/654e5896/bridge-tv-hits-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="rusong-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/rusong-tv.png" tvg-rec="0" catchup-days="0" ,Bridge TV Русский Хит
+http://de.russkoe-iptv.com:88/s/654e5896/rusong-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-classic" tvg-logo="https://rutv.aws-static-hosting.com/streams/bridge-classic.png" tvg-rec="0" catchup-days="0" ,Bridge TV Classic
+http://de.russkoe-iptv.com:88/s/654e5896/bridge-classic.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-shlager" tvg-logo="https://rutv.aws-static-hosting.com/streams/bridge-tv-shlager.png" tvg-rec="0" catchup-days="0" ,Bridge TV Шлягер
+http://de.russkoe-iptv.com:88/s/654e5896/bridge-tv-shlager.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-rock" tvg-logo="https://rutv.aws-static-hosting.com/streams/bridge-tv-rock.png" tvg-rec="0" catchup-days="0" ,Bridge TV Rock
+http://de.russkoe-iptv.com:88/s/654e5896/bridge-tv-rock.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-rock-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/bridge-tv-rock-hd.png" tvg-rec="0" catchup-days="0" ,Bridge TV Rock HD
+http://de.russkoe-iptv.com:88/s/654e5896/bridge-tv-rock-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="m1-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/m1-ua-hd.png" tvg-rec="0" catchup-days="0" ,M1 HD
+http://de.russkoe-iptv.com:88/s/654e5896/m1-ua-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="m2-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/m2-ua-hd.png" tvg-rec="0" catchup-days="0" ,M2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/m2-ua-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="la-minor" tvg-logo="https://rutv.aws-static-hosting.com/streams/la-minor.png" tvg-rec="0" catchup-days="0" ,Ля-минор
+http://de.russkoe-iptv.com:88/s/654e5896/la-minor.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="shanson-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/shanson-tv.png" tvg-rec="0" catchup-days="0" ,Шансон ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/shanson-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="c-music-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/c-music-hd.png" tvg-rec="0" catchup-days="0" ,C Music TV
+http://de.russkoe-iptv.com:88/s/654e5896/c-music-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="iconcerts-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/iconcerts-hd.png" tvg-rec="7" catchup-days="7" ,iConcerts
+http://de.russkoe-iptv.com:88/s/654e5896/iconcerts-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="classic-music" tvg-logo="https://rutv.aws-static-hosting.com/streams/classic-music.png" tvg-rec="0" catchup-days="0" ,Classic Music HD
+http://de.russkoe-iptv.com:88/s/654e5896/classic-music.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mezzo-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/mezzo-hd.png" tvg-rec="0" catchup-days="0" ,Mezzo Live HD
+http://de.russkoe-iptv.com:88/s/654e5896/mezzo-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-live-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/mtv-live-hd.png" tvg-rec="0" catchup-days="0" ,MTV Live HD
+http://de.russkoe-iptv.com:88/s/654e5896/mtv-live-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-europe" tvg-logo="https://rutv.aws-static-hosting.com/streams/mtv-europe.png" tvg-rec="0" catchup-days="0" ,MTV Europe
+http://de.russkoe-iptv.com:88/s/654e5896/mtv-europe.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-hits" tvg-logo="https://rutv.aws-static-hosting.com/streams/mtv-hits.png" tvg-rec="0" catchup-days="0" ,MTV Hits
+http://de.russkoe-iptv.com:88/s/654e5896/mtv-hits.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="club-mtv" tvg-logo="https://rutv.aws-static-hosting.com/streams/club-mtv.png" tvg-rec="0" catchup-days="0" ,Club MTV
+http://de.russkoe-iptv.com:88/s/654e5896/club-mtv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="vh1-europe" tvg-logo="https://rutv.aws-static-hosting.com/streams/vh1-europe.png" tvg-rec="0" catchup-days="0" ,MTV 00s
+http://de.russkoe-iptv.com:88/s/654e5896/vh1-europe.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-rocks" tvg-logo="https://rutv.aws-static-hosting.com/streams/mtv-rocks.png" tvg-rec="0" catchup-days="0" ,MTV 90s
+http://de.russkoe-iptv.com:88/s/654e5896/mtv-rocks.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-80s" tvg-logo="https://rutv.aws-static-hosting.com/streams/mtv-80s.png" tvg-rec="0" catchup-days="0" ,MTV 80s
+http://de.russkoe-iptv.com:88/s/654e5896/mtv-80s.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mcm" tvg-logo="https://rutv.aws-static-hosting.com/streams/mcm.png" tvg-rec="0" catchup-days="0" ,MCM TOP
+http://de.russkoe-iptv.com:88/s/654e5896/mcm.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mcm-top-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/mcm-top-hd.png" tvg-rec="0" catchup-days="0" ,MCM TOP HD
+http://de.russkoe-iptv.com:88/s/654e5896/mcm-top-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="4ever-music-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/4ever-music-hd.png" tvg-rec="0" catchup-days="0" ,4ever Music HD
+http://de.russkoe-iptv.com:88/s/654e5896/4ever-music-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="eu-music-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/eu-music-hd.png" tvg-rec="0" catchup-days="0" ,EU Music HD
+http://de.russkoe-iptv.com:88/s/654e5896/eu-music-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="ua-music-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ua-music-hd.png" tvg-rec="0" catchup-days="0" ,UA Music HD
+http://de.russkoe-iptv.com:88/s/654e5896/ua-music-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="24tv-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/24tv-ua.png" tvg-rec="7" catchup-days="7" ,24 Канал HD
+http://de.russkoe-iptv.com:88/s/654e5896/24tv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="oboz-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/oboz-ua.png" tvg-rec="7" catchup-days="7" ,OBOZ TV
+http://de.russkoe-iptv.com:88/s/654e5896/oboz-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="oboz-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/oboz-tv-ua-hd.png" tvg-rec="7" catchup-days="7" ,OBOZ TV HD
+http://de.russkoe-iptv.com:88/s/654e5896/oboz-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ntn" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntn.png" tvg-rec="7" catchup-days="7" ,НТН
+http://de.russkoe-iptv.com:88/s/654e5896/ntn.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ntn-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntn-ua-hd.png" tvg-rec="7" catchup-days="7" ,НТН HD
+http://de.russkoe-iptv.com:88/s/654e5896/ntn-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tet" tvg-logo="https://rutv.aws-static-hosting.com/streams/tet.png" tvg-rec="7" catchup-days="7" ,ТЕТ
+http://de.russkoe-iptv.com:88/s/654e5896/tet.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tet-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/tet-ua-hd.png" tvg-rec="7" catchup-days="7" ,ТЕТ HD
+http://de.russkoe-iptv.com:88/s/654e5896/tet-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="plus-plus" tvg-logo="https://rutv.aws-static-hosting.com/streams/plus-plus.png" tvg-rec="7" catchup-days="7" ,Eспресо TV
+http://de.russkoe-iptv.com:88/s/654e5896/plus-plus.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="espresso-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/espresso-ua-hd.png" tvg-rec="7" catchup-days="7" ,Eспресо TV HD
+http://de.russkoe-iptv.com:88/s/654e5896/espresso-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tonis-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/tonis-ua.png" tvg-rec="7" catchup-days="7" ,Прямий
+http://de.russkoe-iptv.com:88/s/654e5896/tonis-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tonis-hd-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/tonis-hd-ua.png" tvg-rec="7" catchup-days="7" ,Прямий HD
+http://de.russkoe-iptv.com:88/s/654e5896/tonis-hd-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="k1-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/k1-ua.png" tvg-rec="7" catchup-days="7" ,K1
+http://de.russkoe-iptv.com:88/s/654e5896/k1-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="k1-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/k1-ua-hd.png" tvg-rec="7" catchup-days="7" ,K1 HD
+http://de.russkoe-iptv.com:88/s/654e5896/k1-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="kvartal-tv-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/kvartal-tv-ua.png" tvg-rec="7" catchup-days="7" ,Квартал ТВ
+http://de.russkoe-iptv.com:88/s/654e5896/kvartal-tv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="kvartal-tv-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kvartal-tv-ua-hd.png" tvg-rec="7" catchup-days="7" ,Квартал ТВ HD
+http://de.russkoe-iptv.com:88/s/654e5896/kvartal-tv-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="5kanal-ukraina" tvg-logo="https://rutv.aws-static-hosting.com/streams/5kanal-ukraina.png" tvg-rec="7" catchup-days="7" ,5 канал UA
+http://de.russkoe-iptv.com:88/s/654e5896/5kanal-ukraina.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="5kanal-ukraina-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/5kanal-ukraina-hd.png" tvg-rec="7" catchup-days="7" ,5 канал HD UA
+http://de.russkoe-iptv.com:88/s/654e5896/5kanal-ukraina-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="comedy-central-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/comedy-central-ua-hd.png" tvg-rec="7" catchup-days="7" ,Comedy Central HD UA
+http://de.russkoe-iptv.com:88/s/654e5896/comedy-central-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="star-cinema-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/star-cinema-ua-hd.png" tvg-rec="7" catchup-days="7" ,Star Cinema HD
+http://de.russkoe-iptv.com:88/s/654e5896/star-cinema-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="star-family-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/star-family-ua-hd.png" tvg-rec="7" catchup-days="7" ,Star Family HD
+http://de.russkoe-iptv.com:88/s/654e5896/star-family-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="bolt-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/bolt-ua-hd.png" tvg-rec="7" catchup-days="7" ,Болт HD
+http://de.russkoe-iptv.com:88/s/654e5896/bolt-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="enter-film-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/enter-film-ua.png" tvg-rec="7" catchup-days="7" ,Enter-фільм
+http://de.russkoe-iptv.com:88/s/654e5896/enter-film-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="enter-film-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/enter-film-ua-hd.png" tvg-rec="7" catchup-days="7" ,Enter-фільм HD
+http://de.russkoe-iptv.com:88/s/654e5896/enter-film-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ictv" tvg-logo="https://rutv.aws-static-hosting.com/streams/ictv.png" tvg-rec="7" catchup-days="7" ,ICTV
+http://de.russkoe-iptv.com:88/s/654e5896/ictv.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ictv-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ictv-ua-hd.png" tvg-rec="7" catchup-days="7" ,ICTV HD
+http://de.russkoe-iptv.com:88/s/654e5896/ictv-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ictv2-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ictv2-ua-hd.png" tvg-rec="7" catchup-days="7" ,ICTV2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/ictv2-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="stb" tvg-logo="https://rutv.aws-static-hosting.com/streams/stb.png" tvg-rec="7" catchup-days="7" ,СТБ
+http://de.russkoe-iptv.com:88/s/654e5896/stb.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="stb-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/stb-ua-hd.png" tvg-rec="7" catchup-days="7" ,СТБ HD
+http://de.russkoe-iptv.com:88/s/654e5896/stb-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="pervyj-national-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/pervyj-national-ua.png" tvg-rec="7" catchup-days="7" ,Перший Національний
+http://de.russkoe-iptv.com:88/s/654e5896/pervyj-national-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="pervyj-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/pervyj-ua-hd.png" tvg-rec="7" catchup-days="7" ,Перший Національний HD
+http://de.russkoe-iptv.com:88/s/654e5896/pervyj-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter" tvg-logo="https://rutv.aws-static-hosting.com/streams/inter.png" tvg-rec="7" catchup-days="7" ,Интер
+http://de.russkoe-iptv.com:88/s/654e5896/inter.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/inter-ua-hd.png" tvg-rec="7" catchup-days="7" ,Интер HD
+http://de.russkoe-iptv.com:88/s/654e5896/inter-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter-plus-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/inter-plus-ua.png" tvg-rec="7" catchup-days="7" ,Интер+
+http://de.russkoe-iptv.com:88/s/654e5896/inter-plus-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter-plus-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/inter-plus-ua-hd.png" tvg-rec="7" catchup-days="7" ,Интер+ HD
+http://de.russkoe-iptv.com:88/s/654e5896/inter-plus-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="1-plus-1" tvg-logo="https://rutv.aws-static-hosting.com/streams/1-plus-1.png" tvg-rec="7" catchup-days="7" ,1+1 Украина
+http://de.russkoe-iptv.com:88/s/654e5896/1-plus-1.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="1-plus-1-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/1-plus-1-hd.png" tvg-rec="7" catchup-days="7" ,1+1 Украина HD
+http://de.russkoe-iptv.com:88/s/654e5896/1-plus-1-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="2-plus-2-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/2-plus-2-ua.png" tvg-rec="7" catchup-days="7" ,2+2
+http://de.russkoe-iptv.com:88/s/654e5896/2-plus-2-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="2-plus-2-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/2-plus-2-ua-hd.png" tvg-rec="7" catchup-days="7" ,2+2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/2-plus-2-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="bigudi-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/bigudi.png" tvg-rec="7" catchup-days="7" ,Бигуди
+http://de.russkoe-iptv.com:88/s/654e5896/bigudi-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="bigudi-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/bigudi-ua-hd.png" tvg-rec="7" catchup-days="7" ,Бигуди HD
+http://de.russkoe-iptv.com:88/s/654e5896/bigudi-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="novij-kanal" tvg-logo="https://rutv.aws-static-hosting.com/streams/novij-kanal.png" tvg-rec="7" catchup-days="7" ,Новый Канал
+http://de.russkoe-iptv.com:88/s/654e5896/novij-kanal.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="novyj-kanal-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/novyj-kanal-ua-hd.png" tvg-rec="7" catchup-days="7" ,Новый Канал HD
+http://de.russkoe-iptv.com:88/s/654e5896/novyj-kanal-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="unian-ua-hd" tvg-logo="" tvg-rec="7" catchup-days="7" ,УНИАН HD
+http://de.russkoe-iptv.com:88/s/654e5896/unian-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="kus-kus-ua" tvg-logo="https://rutv.aws-static-hosting.com/streams/kus-kus-ua.png" tvg-rec="7" catchup-days="7" ,Кус-Кус
+http://de.russkoe-iptv.com:88/s/654e5896/kus-kus-ua.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belsat-by-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/belsat-by-hd.png" tvg-rec="7" catchup-days="7" ,Белсат HD
+http://de.russkoe-iptv.com:88/s/654e5896/belsat-by-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="kus-kus-ua-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/kus-kus-ua-hd.png" tvg-rec="7" catchup-days="7" ,Кус-Кус HD
+http://de.russkoe-iptv.com:88/s/654e5896/kus-kus-ua-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus1-by" tvg-logo="https://rutv.aws-static-hosting.com/streams/belarus1-by.png" tvg-rec="7" catchup-days="7" ,Беларусь 1
+http://de.russkoe-iptv.com:88/s/654e5896/belarus1-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus1-by-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/belarus1-by-hd.png" tvg-rec="7" catchup-days="7" ,Беларусь 1 HD
+http://de.russkoe-iptv.com:88/s/654e5896/belarus1-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus2" tvg-logo="https://rutv.aws-static-hosting.com/streams/belarus2.png" tvg-rec="7" catchup-days="7" ,Беларусь 2
+http://de.russkoe-iptv.com:88/s/654e5896/belarus2.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus2-by-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/belarus2-by-hd.png" tvg-rec="7" catchup-days="7" ,Беларусь 2 HD
+http://de.russkoe-iptv.com:88/s/654e5896/belarus2-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus3-by" tvg-logo="https://rutv.aws-static-hosting.com/streams/belarus3-by.png" tvg-rec="7" catchup-days="7" ,Беларусь 3
+http://de.russkoe-iptv.com:88/s/654e5896/belarus3-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus3-by-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/belarus3-by-hd.png" tvg-rec="7" catchup-days="7" ,Беларусь 3 HD
+http://de.russkoe-iptv.com:88/s/654e5896/belarus3-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus5" tvg-logo="https://rutv.aws-static-hosting.com/streams/belarus5.png" tvg-rec="7" catchup-days="7" ,Беларусь 5
+http://de.russkoe-iptv.com:88/s/654e5896/belarus5.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus5-by-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/belarus5-by-hd.png" tvg-rec="7" catchup-days="7" ,Беларусь 5 HD
+http://de.russkoe-iptv.com:88/s/654e5896/belarus5-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus-24" tvg-logo="https://rutv.aws-static-hosting.com/streams/belarus-24.png" tvg-rec="0" catchup-days="0" ,Беларусь 24
+http://de.russkoe-iptv.com:88/s/654e5896/belarus-24.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus-24-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/belarus-24-hd.png" tvg-rec="0" catchup-days="0" ,Беларусь 24 HD
+http://de.russkoe-iptv.com:88/s/654e5896/belarus-24-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="ont-by" tvg-logo="https://rutv.aws-static-hosting.com/streams/ont-by.png" tvg-rec="7" catchup-days="7" ,ОНТ
+http://de.russkoe-iptv.com:88/s/654e5896/ont-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="ont-by-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/ont-by-hd.png" tvg-rec="7" catchup-days="7" ,ОНТ HD
+http://de.russkoe-iptv.com:88/s/654e5896/ont-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="stv-by-hd" tvg-logo="https://rutv.aws-static-hosting.com/streams/stv-by-hd.png" tvg-rec="7" catchup-days="7" ,СТВ Беларусь HD
+http://de.russkoe-iptv.com:88/s/654e5896/stv-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belsat-by" tvg-logo="https://rutv.aws-static-hosting.com/streams/belsat-by.png" tvg-rec="7" catchup-days="7" ,Белсат HD
+http://de.russkoe-iptv.com:88/s/654e5896/belsat-by.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="pervyj-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/pervyj-plus-2.png" tvg-rec="7" catchup-days="7" ,Первый канал (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/pervyj-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="rossija1-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/rossija1-plus-2.png" tvg-rec="7" catchup-days="7" ,Россия 1 (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/rossija1-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="ntv-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-plus-2.png" tvg-rec="7" catchup-days="7" ,НТВ (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="tnt-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/tnt-plus-2.png" tvg-rec="7" catchup-days="7" ,ТНТ (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/tnt-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="rentv-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/rentv-plus-2.png" tvg-rec="7" catchup-days="7" ,РЕН ТВ (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/rentv-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="sts-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/sts-plus-2.png" tvg-rec="7" catchup-days="7" ,СТС (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/sts-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="sts-love-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/sts-love-plus-2.png" tvg-rec="7" catchup-days="7" ,СТС Love (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/sts-love-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="domashnij-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/domashnij-plus-2.png" tvg-rec="7" catchup-days="7" ,Домашний (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/domashnij-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="piatnica-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/piatnica-plus-2.png" tvg-rec="7" catchup-days="7" ,Пятница (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/piatnica-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="tv3-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv3-plus-2.png" tvg-rec="7" catchup-days="7" ,ТВ3 (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/tv3-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="4e-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/4e-plus-2.png" tvg-rec="7" catchup-days="7" ,Че (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/4e-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="tvc-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/tvc-plus-2.png" tvg-rec="7" catchup-days="7" ,ТВЦ (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/tvc-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="zvezda-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/zvezda-plus-2.png" tvg-rec="7" catchup-days="7" ,Звезда (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/zvezda-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="5kanal-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/5kanal-plus-2.png" tvg-rec="7" catchup-days="7" ,5 канал (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/5kanal-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="mir-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/mir-plus-2.png" tvg-rec="7" catchup-days="7" ,Мир (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/mir-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="otp-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/otp-plus-2.png" tvg-rec="7" catchup-days="7" ,ОТР (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/otp-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="rossija-k-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/rossija-k-plus-2.png" tvg-rec="7" catchup-days="7" ,Россия-Культура (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/rossija-k-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="match-plus-2" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-plus-2.png" tvg-rec="7" catchup-days="7" ,Матч ТВ (+2)
+http://de.russkoe-iptv.com:88/s/654e5896/match-plus-2.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="pervyj-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/pervyj-plus-4.png" tvg-rec="7" catchup-days="7" ,Первый канал (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/pervyj-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="pervyj-hd-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/pervyj-hd-plus-4.png" tvg-rec="7" catchup-days="7" ,Первый канал HD (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/pervyj-hd-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="rossija1-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/rossija1-plus-4.png" tvg-rec="7" catchup-days="7" ,Россия 1 (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/rossija1-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="ntv-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-plus-4.png" tvg-rec="7" catchup-days="7" ,НТВ (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="tnt-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/tnt-plus-4.png" tvg-rec="7" catchup-days="7" ,ТНТ (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/tnt-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="sts-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/sts-plus-4.png" tvg-rec="7" catchup-days="7" ,СТС (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/sts-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="rentv-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/rentv-plus-4.png" tvg-rec="7" catchup-days="7" ,РЕН ТВ (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/rentv-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="tv3-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv3-plus-4.png" tvg-rec="7" catchup-days="7" ,ТВ3 (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/tv3-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="piatnica-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/piatnica-plus-4.png" tvg-rec="7" catchup-days="7" ,Пятница (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/piatnica-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="domashnij-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/domashnij-plus-4.png" tvg-rec="7" catchup-days="7" ,Домашний (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/domashnij-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="zvezda-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/zvezda-plus-4.png" tvg-rec="7" catchup-days="7" ,Звезда (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/zvezda-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="tvc-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/tvc-plus-4.png" tvg-rec="7" catchup-days="7" ,ТВЦ (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/tvc-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="5kanal-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/5kanal-plus-4.png" tvg-rec="7" catchup-days="7" ,5 канал (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/5kanal-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="mir-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/mir-plus-4.png" tvg-rec="7" catchup-days="7" ,Мир (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/mir-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="match-plus-4" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-plus-4.png" tvg-rec="7" catchup-days="7" ,Матч ТВ (+4)
+http://de.russkoe-iptv.com:88/s/654e5896/match-plus-4.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="pervyj-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/pervyj-plus-7.png" tvg-rec="7" catchup-days="7" ,Первый канал (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/pervyj-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="rossija1-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/rossija1-plus-7.png" tvg-rec="7" catchup-days="7" ,Россия 1 (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/rossija1-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="ntv-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/ntv-plus-7.png" tvg-rec="7" catchup-days="7" ,НТВ (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/ntv-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="tnt-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/tnt-plus-7.png" tvg-rec="7" catchup-days="7" ,ТНТ (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/tnt-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="rentv-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/rentv-plus-7.png" tvg-rec="7" catchup-days="7" ,РЕН ТВ (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/rentv-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="sts-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/sts-plus-7.png" tvg-rec="7" catchup-days="7" ,СТС (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/sts-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="domashnij-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/domashnij-plus-7.png" tvg-rec="7" catchup-days="7" ,Домашний (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/domashnij-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="piatnica-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/piatnica-plus-7.png" tvg-rec="7" catchup-days="7" ,Пятница (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/piatnica-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="tv3-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/tv3-plus-7.png" tvg-rec="7" catchup-days="7" ,ТВ3 (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/tv3-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="tvc-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/tvc-plus-7.png" tvg-rec="7" catchup-days="7" ,ТВЦ (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/tvc-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="zvezda-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/zvezda-plus-7.png" tvg-rec="7" catchup-days="7" ,Звезда (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/zvezda-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="5kanal-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/5kanal-plus-7.png" tvg-rec="7" catchup-days="7" ,5 канал (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/5kanal-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="mir-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/mir-plus-7.png" tvg-rec="7" catchup-days="7" ,Мир (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/mir-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="otp-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/otp-plus-7.png" tvg-rec="7" catchup-days="7" ,ОТР (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/otp-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="rossija-k-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/rossija-k-plus-7.png" tvg-rec="7" catchup-days="7" ,Россия-Культура (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/rossija-k-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="match-plus-7" tvg-logo="https://rutv.aws-static-hosting.com/streams/match-plus-7.png" tvg-rec="7" catchup-days="7" ,Матч ТВ (+7)
+http://de.russkoe-iptv.com:88/s/654e5896/match-plus-7.m3u8
